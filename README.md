@@ -147,7 +147,7 @@ This project directly addresses tangible problems faced by Vadodara's citizens d
 
 ## 10\. Demo & Connect
 
-  * **Demo Video:** Watch a quick demonstration of the project's functionalities here:(https://drive.google.com/file/d/1vmOhfAF7MRoSB_4vkKvDBLA7mFhVX9mX/view?usp=drive_link) \*
-  * **Connect with me on LinkedIn:** (https://www.linkedin.com/in/dhrumil-pawar/)
+  * **Demo Video:** Watch a quick demonstration of the project's functionalities here: https://drive.google.com/file/d/1vmOhfAF7MRoSB_4vkKvDBLA7mFhVX9mX/view?usp=drive_link
+  * **Connect with me on LinkedIn:** https://www.linkedin.com/in/dhrumil-pawar/
 
 
