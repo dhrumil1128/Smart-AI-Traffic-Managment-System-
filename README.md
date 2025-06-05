@@ -3,7 +3,7 @@
 
 ## Revolutionizing Urban Mobility for a Smarter City
 
- **Project Status:** Prototype / Under Active Development
+ **Project Status:** Prototype
 
 ## 1\. Project Overview
 
