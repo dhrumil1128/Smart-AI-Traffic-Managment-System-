@@ -1,0 +1,865 @@
+Location,Hour,Is_Weekend,Road_Type,Traffic_Level
+Akota,0,0,Highway,Low
+Akota,0,1,Residential,Medium
+Akota,1,0,Residential,Medium
+Akota,1,1,Residential,Medium
+Akota,2,0,Commercial,Medium
+Akota,2,1,Residential,Medium
+Akota,3,0,Commercial,Medium
+Akota,3,1,Main Road,Low
+Akota,4,0,Highway,Low
+Akota,4,1,Highway,Medium
+Akota,5,0,Main Road,Medium
+Akota,5,1,Main Road,Low
+Akota,6,0,Highway,Medium
+Akota,6,1,Highway,Low
+Akota,7,0,Highway,Medium
+Akota,7,1,Commercial,Medium
+Akota,8,0,Main Road,High
+Akota,8,1,Highway,Very High
+Akota,9,0,Main Road,Very High
+Akota,9,1,Main Road,High
+Akota,10,0,Main Road,High
+Akota,10,1,Main Road,Medium
+Akota,11,0,Main Road,Low
+Akota,11,1,Highway,Low
+Akota,12,0,Highway,Low
+Akota,12,1,Highway,Low
+Akota,13,0,Highway,Low
+Akota,13,1,Commercial,Low
+Akota,14,0,Commercial,Medium
+Akota,14,1,Main Road,Low
+Akota,15,0,Residential,Low
+Akota,15,1,Main Road,Low
+Akota,16,0,Highway,High
+Akota,16,1,Commercial,High
+Akota,17,0,Main Road,High
+Akota,17,1,Residential,Very High
+Akota,18,0,Main Road,High
+Akota,18,1,Highway,High
+Akota,19,0,Main Road,Medium
+Akota,19,1,Highway,High
+Akota,20,0,Commercial,Medium
+Akota,20,1,Highway,Medium
+Akota,21,0,Residential,Low
+Akota,21,1,Main Road,Low
+Akota,22,0,Residential,Medium
+Akota,22,1,Main Road,Medium
+Akota,23,0,Commercial,Low
+Akota,23,1,Highway,Medium
+Alkapuri,0,0,Highway,Low
+Alkapuri,0,1,Residential,Low
+Alkapuri,1,0,Highway,Medium
+Alkapuri,1,1,Residential,Medium
+Alkapuri,2,0,Highway,Medium
+Alkapuri,2,1,Main Road,Medium
+Alkapuri,3,0,Commercial,Medium
+Alkapuri,3,1,Residential,Medium
+Alkapuri,4,0,Highway,Medium
+Alkapuri,4,1,Main Road,Low
+Alkapuri,5,0,Residential,Low
+Alkapuri,5,1,Highway,Medium
+Alkapuri,6,0,Main Road,Low
+Alkapuri,6,1,Residential,Medium
+Alkapuri,7,0,Residential,Medium
+Alkapuri,7,1,Commercial,Medium
+Alkapuri,8,0,Residential,High
+Alkapuri,8,1,Highway,Very High
+Alkapuri,9,0,Main Road,Very High
+Alkapuri,9,1,Residential,High
+Alkapuri,10,0,Commercial,Medium
+Alkapuri,10,1,Commercial,Medium
+Alkapuri,11,0,Main Road,Low
+Alkapuri,11,1,Main Road,Low
+Alkapuri,12,0,Highway,Medium
+Alkapuri,12,1,Commercial,Low
+Alkapuri,13,0,Highway,Medium
+Alkapuri,13,1,Highway,Medium
+Alkapuri,14,0,Residential,Medium
+Alkapuri,14,1,Highway,Low
+Alkapuri,15,0,Residential,Medium
+Alkapuri,15,1,Residential,Low
+Alkapuri,16,0,Main Road,Medium
+Alkapuri,16,1,Residential,Medium
+Alkapuri,17,0,Highway,Very High
+Alkapuri,17,1,Main Road,High
+Alkapuri,18,0,Highway,Very High
+Alkapuri,18,1,Commercial,High
+Alkapuri,19,0,Residential,High
+Alkapuri,19,1,Main Road,Medium
+Alkapuri,20,0,Residential,Medium
+Alkapuri,20,1,Main Road,Medium
+Alkapuri,21,0,Highway,Medium
+Alkapuri,21,1,Commercial,Low
+Alkapuri,22,0,Highway,Low
+Alkapuri,22,1,Highway,Low
+Alkapuri,23,0,Residential,Low
+Alkapuri,23,1,Commercial,Low
+Gotri,0,0,Highway,Low
+Gotri,0,1,Main Road,Medium
+Gotri,1,0,Commercial,Low
+Gotri,1,1,Highway,Medium
+Gotri,2,0,Residential,Medium
+Gotri,2,1,Highway,Medium
+Gotri,3,0,Main Road,Low
+Gotri,3,1,Commercial,Low
+Gotri,4,0,Residential,Medium
+Gotri,4,1,Highway,Low
+Gotri,5,0,Main Road,Low
+Gotri,5,1,Residential,Medium
+Gotri,6,0,Residential,Medium
+Gotri,6,1,Residential,Low
+Gotri,7,0,Highway,High
+Gotri,7,1,Highway,Medium
+Gotri,8,0,Highway,High
+Gotri,8,1,Main Road,Very High
+Gotri,9,0,Residential,Very High
+Gotri,9,1,Main Road,High
+Gotri,10,0,Main Road,Medium
+Gotri,10,1,Commercial,Medium
+Gotri,11,0,Commercial,Medium
+Gotri,11,1,Highway,Medium
+Gotri,12,0,Commercial,Medium
+Gotri,12,1,Main Road,Low
+Gotri,13,0,Main Road,Low
+Gotri,13,1,Main Road,Low
+Gotri,14,0,Residential,Medium
+Gotri,14,1,Residential,Low
+Gotri,15,0,Highway,Low
+Gotri,15,1,Main Road,Low
+Gotri,16,0,Main Road,Medium
+Gotri,16,1,Main Road,Medium
+Gotri,17,0,Commercial,High
+Gotri,17,1,Commercial,High
+Gotri,18,0,Main Road,High
+Gotri,18,1,Main Road,High
+Gotri,19,0,Residential,Medium
+Gotri,19,1,Residential,Medium
+Gotri,20,0,Residential,Low
+Gotri,20,1,Commercial,Low
+Gotri,21,0,Highway,Medium
+Gotri,21,1,Main Road,Medium
+Gotri,22,0,Highway,Low
+Gotri,22,1,Highway,Low
+Gotri,23,0,Highway,Medium
+Gotri,23,1,Main Road,Medium
+Manjalpur,0,0,Main Road,Low
+Manjalpur,0,1,Residential,Medium
+Manjalpur,1,0,Residential,Low
+Manjalpur,1,1,Highway,Low
+Manjalpur,2,0,Residential,Medium
+Manjalpur,2,1,Commercial,Low
+Manjalpur,3,0,Residential,Medium
+Manjalpur,3,1,Highway,Medium
+Manjalpur,4,0,Commercial,Medium
+Manjalpur,4,1,Commercial,Medium
+Manjalpur,5,0,Highway,Medium
+Manjalpur,5,1,Main Road,Low
+Manjalpur,6,0,Commercial,Low
+Manjalpur,6,1,Highway,Medium
+Manjalpur,7,0,Residential,Medium
+Manjalpur,7,1,Main Road,High
+Manjalpur,8,0,Commercial,High
+Manjalpur,8,1,Residential,High
+Manjalpur,9,0,Commercial,High
+Manjalpur,9,1,Residential,Very High
+Manjalpur,10,0,Highway,Medium
+Manjalpur,10,1,Highway,High
+Manjalpur,11,0,Residential,Medium
+Manjalpur,11,1,Highway,Low
+Manjalpur,12,0,Highway,Low
+Manjalpur,12,1,Commercial,Low
+Manjalpur,13,0,Commercial,Low
+Manjalpur,13,1,Residential,Low
+Manjalpur,14,0,Highway,Low
+Manjalpur,14,1,Highway,Medium
+Manjalpur,15,0,Highway,Medium
+Manjalpur,15,1,Main Road,Medium
+Manjalpur,16,0,Highway,Medium
+Manjalpur,16,1,Commercial,Medium
+Manjalpur,17,0,Main Road,Very High
+Manjalpur,17,1,Main Road,Very High
+Manjalpur,18,0,Residential,High
+Manjalpur,18,1,Main Road,High
+Manjalpur,19,0,Commercial,Medium
+Manjalpur,19,1,Highway,Medium
+Manjalpur,20,0,Commercial,Medium
+Manjalpur,20,1,Commercial,Medium
+Manjalpur,21,0,Commercial,Medium
+Manjalpur,21,1,Commercial,Low
+Manjalpur,22,0,Commercial,Low
+Manjalpur,22,1,Residential,Low
+Manjalpur,23,0,Residential,Low
+Manjalpur,23,1,Main Road,Low
+Karelibaug,0,0,Residential,Low
+Karelibaug,0,1,Highway,Low
+Karelibaug,1,0,Commercial,Medium
+Karelibaug,1,1,Highway,Low
+Karelibaug,2,0,Commercial,Low
+Karelibaug,2,1,Highway,Low
+Karelibaug,3,0,Commercial,Medium
+Karelibaug,3,1,Commercial,Medium
+Karelibaug,4,0,Main Road,Low
+Karelibaug,4,1,Commercial,Low
+Karelibaug,5,0,Highway,Low
+Karelibaug,5,1,Commercial,Medium
+Karelibaug,6,0,Residential,Low
+Karelibaug,6,1,Commercial,Medium
+Karelibaug,7,0,Residential,Medium
+Karelibaug,7,1,Highway,High
+Karelibaug,8,0,Main Road,Very High
+Karelibaug,8,1,Highway,Very High
+Karelibaug,9,0,Highway,Very High
+Karelibaug,9,1,Main Road,Very High
+Karelibaug,10,0,Highway,Medium
+Karelibaug,10,1,Main Road,Medium
+Karelibaug,11,0,Main Road,Low
+Karelibaug,11,1,Highway,Low
+Karelibaug,12,0,Highway,Low
+Karelibaug,12,1,Main Road,Low
+Karelibaug,13,0,Highway,Medium
+Karelibaug,13,1,Highway,Medium
+Karelibaug,14,0,Highway,Low
+Karelibaug,14,1,Main Road,Medium
+Karelibaug,15,0,Main Road,Low
+Karelibaug,15,1,Commercial,Low
+Karelibaug,16,0,Highway,Medium
+Karelibaug,16,1,Commercial,High
+Karelibaug,17,0,Highway,High
+Karelibaug,17,1,Main Road,High
+Karelibaug,18,0,Residential,High
+Karelibaug,18,1,Highway,High
+Karelibaug,19,0,Main Road,High
+Karelibaug,19,1,Highway,Medium
+Karelibaug,20,0,Main Road,Medium
+Karelibaug,20,1,Commercial,Medium
+Karelibaug,21,0,Highway,Low
+Karelibaug,21,1,Commercial,Medium
+Karelibaug,22,0,Highway,Medium
+Karelibaug,22,1,Residential,Medium
+Karelibaug,23,0,Commercial,Medium
+Karelibaug,23,1,Main Road,Medium
+Waghodia Road,0,0,Main Road,Low
+Waghodia Road,0,1,Main Road,Medium
+Waghodia Road,1,0,Highway,Low
+Waghodia Road,1,1,Residential,Medium
+Waghodia Road,2,0,Residential,Medium
+Waghodia Road,2,1,Highway,Medium
+Waghodia Road,3,0,Residential,Medium
+Waghodia Road,3,1,Main Road,Low
+Waghodia Road,4,0,Highway,Medium
+Waghodia Road,4,1,Commercial,Low
+Waghodia Road,5,0,Main Road,Low
+Waghodia Road,5,1,Main Road,Medium
+Waghodia Road,6,0,Main Road,Low
+Waghodia Road,6,1,Residential,Medium
+Waghodia Road,7,0,Highway,Medium
+Waghodia Road,7,1,Residential,Medium
+Waghodia Road,8,0,Commercial,Very High
+Waghodia Road,8,1,Main Road,Very High
+Waghodia Road,9,0,Commercial,Very High
+Waghodia Road,9,1,Highway,Very High
+Waghodia Road,10,0,Main Road,High
+Waghodia Road,10,1,Residential,Medium
+Waghodia Road,11,0,Commercial,Low
+Waghodia Road,11,1,Residential,Low
+Waghodia Road,12,0,Commercial,Low
+Waghodia Road,12,1,Main Road,Low
+Waghodia Road,13,0,Commercial,Medium
+Waghodia Road,13,1,Main Road,Low
+Waghodia Road,14,0,Highway,Low
+Waghodia Road,14,1,Commercial,Medium
+Waghodia Road,15,0,Residential,Medium
+Waghodia Road,15,1,Commercial,Low
+Waghodia Road,16,0,Commercial,Medium
+Waghodia Road,16,1,Highway,High
+Waghodia Road,17,0,Commercial,High
+Waghodia Road,17,1,Commercial,High
+Waghodia Road,18,0,Main Road,High
+Waghodia Road,18,1,Commercial,High
+Waghodia Road,19,0,Main Road,High
+Waghodia Road,19,1,Main Road,Medium
+Waghodia Road,20,0,Commercial,Medium
+Waghodia Road,20,1,Commercial,Low
+Waghodia Road,21,0,Main Road,Medium
+Waghodia Road,21,1,Residential,Low
+Waghodia Road,22,0,Highway,Medium
+Waghodia Road,22,1,Main Road,Low
+Waghodia Road,23,0,Residential,Low
+Waghodia Road,23,1,Highway,Low
+Fatehgunj,0,0,Main Road,Low
+Fatehgunj,0,1,Commercial,Medium
+Fatehgunj,1,0,Main Road,Low
+Fatehgunj,1,1,Residential,Medium
+Fatehgunj,2,0,Highway,Medium
+Fatehgunj,2,1,Highway,Medium
+Fatehgunj,3,0,Residential,Medium
+Fatehgunj,3,1,Residential,Low
+Fatehgunj,4,0,Residential,Low
+Fatehgunj,4,1,Commercial,Medium
+Fatehgunj,5,0,Highway,Medium
+Fatehgunj,5,1,Highway,Low
+Fatehgunj,6,0,Main Road,Medium
+Fatehgunj,6,1,Residential,Medium
+Fatehgunj,7,0,Main Road,Medium
+Fatehgunj,7,1,Residential,High
+Fatehgunj,8,0,Commercial,High
+Fatehgunj,8,1,Residential,Very High
+Fatehgunj,9,0,Main Road,High
+Fatehgunj,9,1,Commercial,High
+Fatehgunj,10,0,Commercial,Medium
+Fatehgunj,10,1,Highway,Medium
+Fatehgunj,11,0,Main Road,Low
+Fatehgunj,11,1,Residential,Low
+Fatehgunj,12,0,Residential,Medium
+Fatehgunj,12,1,Residential,Low
+Fatehgunj,13,0,Commercial,Low
+Fatehgunj,13,1,Commercial,Low
+Fatehgunj,14,0,Commercial,Medium
+Fatehgunj,14,1,Residential,Medium
+Fatehgunj,15,0,Highway,Low
+Fatehgunj,15,1,Commercial,Low
+Fatehgunj,16,0,Main Road,Medium
+Fatehgunj,16,1,Highway,Medium
+Fatehgunj,17,0,Residential,Very High
+Fatehgunj,17,1,Main Road,High
+Fatehgunj,18,0,Commercial,Very High
+Fatehgunj,18,1,Residential,High
+Fatehgunj,19,0,Residential,High
+Fatehgunj,19,1,Residential,Medium
+Fatehgunj,20,0,Residential,Medium
+Fatehgunj,20,1,Main Road,Medium
+Fatehgunj,21,0,Main Road,Low
+Fatehgunj,21,1,Highway,Low
+Fatehgunj,22,0,Residential,Medium
+Fatehgunj,22,1,Residential,Low
+Fatehgunj,23,0,Main Road,Medium
+Fatehgunj,23,1,Highway,Low
+Sayajigunj,0,0,Residential,Medium
+Sayajigunj,0,1,Residential,Medium
+Sayajigunj,1,0,Main Road,Medium
+Sayajigunj,1,1,Residential,Medium
+Sayajigunj,2,0,Commercial,Low
+Sayajigunj,2,1,Commercial,Low
+Sayajigunj,3,0,Residential,Low
+Sayajigunj,3,1,Main Road,Medium
+Sayajigunj,4,0,Commercial,Low
+Sayajigunj,4,1,Highway,Medium
+Sayajigunj,5,0,Main Road,Low
+Sayajigunj,5,1,Commercial,Low
+Sayajigunj,6,0,Residential,Medium
+Sayajigunj,6,1,Main Road,Medium
+Sayajigunj,7,0,Commercial,High
+Sayajigunj,7,1,Main Road,High
+Sayajigunj,8,0,Highway,High
+Sayajigunj,8,1,Main Road,High
+Sayajigunj,9,0,Highway,High
+Sayajigunj,9,1,Commercial,Very High
+Sayajigunj,10,0,Highway,Medium
+Sayajigunj,10,1,Residential,Medium
+Sayajigunj,11,0,Main Road,Medium
+Sayajigunj,11,1,Residential,Low
+Sayajigunj,12,0,Main Road,Medium
+Sayajigunj,12,1,Commercial,Medium
+Sayajigunj,13,0,Residential,Low
+Sayajigunj,13,1,Highway,Low
+Sayajigunj,14,0,Highway,Low
+Sayajigunj,14,1,Residential,Low
+Sayajigunj,15,0,Residential,Low
+Sayajigunj,15,1,Highway,Low
+Sayajigunj,16,0,Residential,High
+Sayajigunj,16,1,Commercial,High
+Sayajigunj,17,0,Highway,Very High
+Sayajigunj,17,1,Commercial,Very High
+Sayajigunj,18,0,Residential,Very High
+Sayajigunj,18,1,Residential,High
+Sayajigunj,19,0,Residential,Medium
+Sayajigunj,19,1,Highway,High
+Sayajigunj,20,0,Residential,Medium
+Sayajigunj,20,1,Main Road,Low
+Sayajigunj,21,0,Highway,Low
+Sayajigunj,21,1,Main Road,Low
+Sayajigunj,22,0,Residential,Low
+Sayajigunj,22,1,Highway,Medium
+Sayajigunj,23,0,Highway,Low
+Sayajigunj,23,1,Commercial,Medium
+Old Padra Road,0,0,Residential,Medium
+Old Padra Road,0,1,Highway,Medium
+Old Padra Road,1,0,Commercial,Low
+Old Padra Road,1,1,Main Road,Medium
+Old Padra Road,2,0,Main Road,Low
+Old Padra Road,2,1,Highway,Low
+Old Padra Road,3,0,Residential,Medium
+Old Padra Road,3,1,Residential,Medium
+Old Padra Road,4,0,Main Road,Medium
+Old Padra Road,4,1,Residential,Low
+Old Padra Road,5,0,Highway,Low
+Old Padra Road,5,1,Commercial,Low
+Old Padra Road,6,0,Main Road,Low
+Old Padra Road,6,1,Highway,Medium
+Old Padra Road,7,0,Highway,Medium
+Old Padra Road,7,1,Main Road,Medium
+Old Padra Road,8,0,Highway,High
+Old Padra Road,8,1,Commercial,High
+Old Padra Road,9,0,Residential,Very High
+Old Padra Road,9,1,Highway,High
+Old Padra Road,10,0,Highway,Medium
+Old Padra Road,10,1,Commercial,Medium
+Old Padra Road,11,0,Highway,Medium
+Old Padra Road,11,1,Commercial,Low
+Old Padra Road,12,0,Commercial,Medium
+Old Padra Road,12,1,Main Road,Medium
+Old Padra Road,13,0,Highway,Medium
+Old Padra Road,13,1,Commercial,Low
+Old Padra Road,14,0,Main Road,Medium
+Old Padra Road,14,1,Commercial,Low
+Old Padra Road,15,0,Commercial,Low
+Old Padra Road,15,1,Commercial,Low
+Old Padra Road,16,0,Highway,Medium
+Old Padra Road,16,1,Residential,Medium
+Old Padra Road,17,0,Main Road,High
+Old Padra Road,17,1,Commercial,High
+Old Padra Road,18,0,Highway,High
+Old Padra Road,18,1,Main Road,Very High
+Old Padra Road,19,0,Residential,High
+Old Padra Road,19,1,Highway,Medium
+Old Padra Road,20,0,Highway,Medium
+Old Padra Road,20,1,Main Road,Medium
+Old Padra Road,21,0,Residential,Medium
+Old Padra Road,21,1,Residential,Low
+Old Padra Road,22,0,Residential,Medium
+Old Padra Road,22,1,Main Road,Low
+Old Padra Road,23,0,Highway,Low
+Old Padra Road,23,1,Highway,Low
+Nizampura,0,0,Highway,Medium
+Nizampura,0,1,Commercial,Low
+Nizampura,1,0,Highway,Low
+Nizampura,1,1,Residential,Medium
+Nizampura,2,0,Commercial,Medium
+Nizampura,2,1,Main Road,Medium
+Nizampura,3,0,Main Road,Medium
+Nizampura,3,1,Highway,Low
+Nizampura,4,0,Commercial,Low
+Nizampura,4,1,Residential,Medium
+Nizampura,5,0,Main Road,Medium
+Nizampura,5,1,Commercial,Medium
+Nizampura,6,0,Residential,Low
+Nizampura,6,1,Residential,Medium
+Nizampura,7,0,Highway,Medium
+Nizampura,7,1,Main Road,High
+Nizampura,8,0,Highway,Very High
+Nizampura,8,1,Main Road,High
+Nizampura,9,0,Commercial,Very High
+Nizampura,9,1,Commercial,High
+Nizampura,10,0,Residential,High
+Nizampura,10,1,Main Road,Medium
+Nizampura,11,0,Main Road,Low
+Nizampura,11,1,Main Road,Low
+Nizampura,12,0,Highway,Medium
+Nizampura,12,1,Commercial,Medium
+Nizampura,13,0,Highway,Low
+Nizampura,13,1,Residential,Low
+Nizampura,14,0,Highway,Low
+Nizampura,14,1,Residential,Low
+Nizampura,15,0,Main Road,Low
+Nizampura,15,1,Main Road,Low
+Nizampura,16,0,Residential,Medium
+Nizampura,16,1,Residential,Medium
+Nizampura,17,0,Commercial,Very High
+Nizampura,17,1,Highway,Very High
+Nizampura,18,0,Commercial,Very High
+Nizampura,18,1,Main Road,Very High
+Nizampura,19,0,Highway,High
+Nizampura,19,1,Residential,Medium
+Nizampura,20,0,Residential,Medium
+Nizampura,20,1,Highway,Low
+Nizampura,21,0,Main Road,Low
+Nizampura,21,1,Residential,Low
+Nizampura,22,0,Residential,Medium
+Nizampura,22,1,Main Road,Medium
+Nizampura,23,0,Residential,Medium
+Nizampura,23,1,Main Road,Medium
+Ajwa Road,0,0,Main Road,Medium
+Ajwa Road,0,1,Highway,Medium
+Ajwa Road,1,0,Highway,Low
+Ajwa Road,1,1,Highway,Medium
+Ajwa Road,2,0,Main Road,Low
+Ajwa Road,2,1,Highway,Low
+Ajwa Road,3,0,Residential,Low
+Ajwa Road,3,1,Highway,Medium
+Ajwa Road,4,0,Main Road,Low
+Ajwa Road,4,1,Highway,Medium
+Ajwa Road,5,0,Highway,Medium
+Ajwa Road,5,1,Commercial,Medium
+Ajwa Road,6,0,Residential,Low
+Ajwa Road,6,1,Residential,Medium
+Ajwa Road,7,0,Residential,High
+Ajwa Road,7,1,Highway,Medium
+Ajwa Road,8,0,Main Road,High
+Ajwa Road,8,1,Highway,High
+Ajwa Road,9,0,Commercial,High
+Ajwa Road,9,1,Commercial,High
+Ajwa Road,10,0,Commercial,High
+Ajwa Road,10,1,Commercial,Medium
+Ajwa Road,11,0,Highway,Low
+Ajwa Road,11,1,Main Road,Low
+Ajwa Road,12,0,Commercial,Low
+Ajwa Road,12,1,Highway,Medium
+Ajwa Road,13,0,Highway,Low
+Ajwa Road,13,1,Residential,Medium
+Ajwa Road,14,0,Main Road,Medium
+Ajwa Road,14,1,Highway,Low
+Ajwa Road,15,0,Highway,Low
+Ajwa Road,15,1,Commercial,Medium
+Ajwa Road,16,0,Commercial,Medium
+Ajwa Road,16,1,Highway,Medium
+Ajwa Road,17,0,Commercial,Very High
+Ajwa Road,17,1,Main Road,High
+Ajwa Road,18,0,Main Road,High
+Ajwa Road,18,1,Residential,High
+Ajwa Road,19,0,Residential,Medium
+Ajwa Road,19,1,Highway,Medium
+Ajwa Road,20,0,Main Road,Low
+Ajwa Road,20,1,Commercial,Low
+Ajwa Road,21,0,Residential,Low
+Ajwa Road,21,1,Commercial,Low
+Ajwa Road,22,0,Commercial,Medium
+Ajwa Road,22,1,Main Road,Low
+Ajwa Road,23,0,Main Road,Medium
+Ajwa Road,23,1,Commercial,Medium
+Makarpura,0,0,Highway,Medium
+Makarpura,0,1,Residential,Low
+Makarpura,1,0,Commercial,Medium
+Makarpura,1,1,Residential,Medium
+Makarpura,2,0,Main Road,Medium
+Makarpura,2,1,Commercial,Low
+Makarpura,3,0,Main Road,Low
+Makarpura,3,1,Main Road,Medium
+Makarpura,4,0,Main Road,Low
+Makarpura,4,1,Main Road,Low
+Makarpura,5,0,Highway,Medium
+Makarpura,5,1,Residential,Medium
+Makarpura,6,0,Commercial,Low
+Makarpura,6,1,Commercial,Medium
+Makarpura,7,0,Residential,Medium
+Makarpura,7,1,Highway,High
+Makarpura,8,0,Main Road,Very High
+Makarpura,8,1,Main Road,Very High
+Makarpura,9,0,Residential,Very High
+Makarpura,9,1,Highway,High
+Makarpura,10,0,Highway,Medium
+Makarpura,10,1,Residential,Medium
+Makarpura,11,0,Highway,Low
+Makarpura,11,1,Highway,Low
+Makarpura,12,0,Residential,Low
+Makarpura,12,1,Main Road,Low
+Makarpura,13,0,Commercial,Low
+Makarpura,13,1,Commercial,Low
+Makarpura,14,0,Highway,Low
+Makarpura,14,1,Residential,Low
+Makarpura,15,0,Highway,Low
+Makarpura,15,1,Commercial,Low
+Makarpura,16,0,Residential,High
+Makarpura,16,1,Commercial,Medium
+Makarpura,17,0,Highway,High
+Makarpura,17,1,Commercial,High
+Makarpura,18,0,Main Road,High
+Makarpura,18,1,Highway,High
+Makarpura,19,0,Residential,Medium
+Makarpura,19,1,Main Road,Medium
+Makarpura,20,0,Commercial,Medium
+Makarpura,20,1,Highway,Low
+Makarpura,21,0,Residential,Low
+Makarpura,21,1,Residential,Medium
+Makarpura,22,0,Main Road,Low
+Makarpura,22,1,Main Road,Low
+Makarpura,23,0,Commercial,Low
+Makarpura,23,1,Commercial,Low
+Tarsali,0,0,Commercial,Low
+Tarsali,0,1,Commercial,Medium
+Tarsali,1,0,Commercial,Medium
+Tarsali,1,1,Main Road,Low
+Tarsali,2,0,Main Road,Low
+Tarsali,2,1,Main Road,Medium
+Tarsali,3,0,Commercial,Medium
+Tarsali,3,1,Residential,Medium
+Tarsali,4,0,Commercial,Medium
+Tarsali,4,1,Highway,Low
+Tarsali,5,0,Main Road,Low
+Tarsali,5,1,Residential,Low
+Tarsali,6,0,Residential,Medium
+Tarsali,6,1,Commercial,Medium
+Tarsali,7,0,Residential,Medium
+Tarsali,7,1,Main Road,Medium
+Tarsali,8,0,Commercial,High
+Tarsali,8,1,Main Road,High
+Tarsali,9,0,Highway,High
+Tarsali,9,1,Commercial,Very High
+Tarsali,10,0,Highway,Medium
+Tarsali,10,1,Commercial,Medium
+Tarsali,11,0,Residential,Low
+Tarsali,11,1,Commercial,Low
+Tarsali,12,0,Main Road,Medium
+Tarsali,12,1,Commercial,Low
+Tarsali,13,0,Commercial,Low
+Tarsali,13,1,Commercial,Medium
+Tarsali,14,0,Main Road,Low
+Tarsali,14,1,Commercial,Low
+Tarsali,15,0,Highway,Medium
+Tarsali,15,1,Commercial,Low
+Tarsali,16,0,Commercial,Medium
+Tarsali,16,1,Main Road,High
+Tarsali,17,0,Highway,Very High
+Tarsali,17,1,Highway,High
+Tarsali,18,0,Commercial,Very High
+Tarsali,18,1,Main Road,High
+Tarsali,19,0,Main Road,Medium
+Tarsali,19,1,Residential,Medium
+Tarsali,20,0,Residential,Low
+Tarsali,20,1,Commercial,Medium
+Tarsali,21,0,Main Road,Medium
+Tarsali,21,1,Commercial,Low
+Tarsali,22,0,Highway,Medium
+Tarsali,22,1,Highway,Medium
+Tarsali,23,0,Main Road,Medium
+Tarsali,23,1,Main Road,Medium
+Vasna-Bhayli Road,0,0,Highway,Low
+Vasna-Bhayli Road,0,1,Main Road,Low
+Vasna-Bhayli Road,1,0,Highway,Medium
+Vasna-Bhayli Road,1,1,Main Road,Medium
+Vasna-Bhayli Road,2,0,Residential,Low
+Vasna-Bhayli Road,2,1,Main Road,Medium
+Vasna-Bhayli Road,3,0,Residential,Medium
+Vasna-Bhayli Road,3,1,Residential,Medium
+Vasna-Bhayli Road,4,0,Main Road,Medium
+Vasna-Bhayli Road,4,1,Residential,Medium
+Vasna-Bhayli Road,5,0,Main Road,Medium
+Vasna-Bhayli Road,5,1,Residential,Low
+Vasna-Bhayli Road,6,0,Highway,Medium
+Vasna-Bhayli Road,6,1,Highway,Low
+Vasna-Bhayli Road,7,0,Main Road,Medium
+Vasna-Bhayli Road,7,1,Residential,Medium
+Vasna-Bhayli Road,8,0,Commercial,Very High
+Vasna-Bhayli Road,8,1,Residential,High
+Vasna-Bhayli Road,9,0,Main Road,Very High
+Vasna-Bhayli Road,9,1,Highway,High
+Vasna-Bhayli Road,10,0,Main Road,Medium
+Vasna-Bhayli Road,10,1,Commercial,High
+Vasna-Bhayli Road,11,0,Commercial,Low
+Vasna-Bhayli Road,11,1,Residential,Low
+Vasna-Bhayli Road,12,0,Highway,Low
+Vasna-Bhayli Road,12,1,Highway,Low
+Vasna-Bhayli Road,13,0,Commercial,Low
+Vasna-Bhayli Road,13,1,Main Road,Low
+Vasna-Bhayli Road,14,0,Residential,Medium
+Vasna-Bhayli Road,14,1,Highway,Medium
+Vasna-Bhayli Road,15,0,Commercial,Low
+Vasna-Bhayli Road,15,1,Residential,Low
+Vasna-Bhayli Road,16,0,Highway,Medium
+Vasna-Bhayli Road,16,1,Main Road,High
+Vasna-Bhayli Road,17,0,Main Road,High
+Vasna-Bhayli Road,17,1,Highway,Very High
+Vasna-Bhayli Road,18,0,Main Road,High
+Vasna-Bhayli Road,18,1,Commercial,High
+Vasna-Bhayli Road,19,0,Main Road,Medium
+Vasna-Bhayli Road,19,1,Main Road,High
+Vasna-Bhayli Road,20,0,Highway,Medium
+Vasna-Bhayli Road,20,1,Residential,Medium
+Vasna-Bhayli Road,21,0,Main Road,Low
+Vasna-Bhayli Road,21,1,Commercial,Medium
+Vasna-Bhayli Road,22,0,Residential,Medium
+Vasna-Bhayli Road,22,1,Highway,Medium
+Vasna-Bhayli Road,23,0,Residential,Medium
+Vasna-Bhayli Road,23,1,Main Road,Medium
+Subhanpura,0,0,Commercial,Low
+Subhanpura,0,1,Residential,Medium
+Subhanpura,1,0,Main Road,Medium
+Subhanpura,1,1,Main Road,Low
+Subhanpura,2,0,Main Road,Medium
+Subhanpura,2,1,Highway,Medium
+Subhanpura,3,0,Commercial,Low
+Subhanpura,3,1,Commercial,Medium
+Subhanpura,4,0,Commercial,Medium
+Subhanpura,4,1,Commercial,Low
+Subhanpura,5,0,Main Road,Medium
+Subhanpura,5,1,Commercial,Medium
+Subhanpura,6,0,Highway,Medium
+Subhanpura,6,1,Residential,Low
+Subhanpura,7,0,Highway,Medium
+Subhanpura,7,1,Highway,Medium
+Subhanpura,8,0,Highway,High
+Subhanpura,8,1,Commercial,Very High
+Subhanpura,9,0,Main Road,High
+Subhanpura,9,1,Main Road,Very High
+Subhanpura,10,0,Commercial,High
+Subhanpura,10,1,Commercial,Medium
+Subhanpura,11,0,Commercial,Low
+Subhanpura,11,1,Residential,Low
+Subhanpura,12,0,Residential,Medium
+Subhanpura,12,1,Highway,Medium
+Subhanpura,13,0,Residential,Medium
+Subhanpura,13,1,Commercial,Medium
+Subhanpura,14,0,Highway,Low
+Subhanpura,14,1,Main Road,Low
+Subhanpura,15,0,Highway,Medium
+Subhanpura,15,1,Commercial,Low
+Subhanpura,16,0,Residential,High
+Subhanpura,16,1,Main Road,Medium
+Subhanpura,17,0,Residential,High
+Subhanpura,17,1,Residential,Very High
+Subhanpura,18,0,Residential,High
+Subhanpura,18,1,Main Road,High
+Subhanpura,19,0,Commercial,Medium
+Subhanpura,19,1,Main Road,Medium
+Subhanpura,20,0,Main Road,Low
+Subhanpura,20,1,Commercial,Low
+Subhanpura,21,0,Highway,Low
+Subhanpura,21,1,Main Road,Low
+Subhanpura,22,0,Residential,Medium
+Subhanpura,22,1,Commercial,Low
+Subhanpura,23,0,Highway,Medium
+Subhanpura,23,1,Highway,Low
+Ellora Park,0,0,Highway,Low
+Ellora Park,0,1,Commercial,Medium
+Ellora Park,1,0,Main Road,Low
+Ellora Park,1,1,Commercial,Medium
+Ellora Park,2,0,Main Road,Medium
+Ellora Park,2,1,Main Road,Medium
+Ellora Park,3,0,Residential,Medium
+Ellora Park,3,1,Residential,Medium
+Ellora Park,4,0,Highway,Medium
+Ellora Park,4,1,Main Road,Medium
+Ellora Park,5,0,Main Road,Medium
+Ellora Park,5,1,Commercial,Medium
+Ellora Park,6,0,Highway,Medium
+Ellora Park,6,1,Main Road,Low
+Ellora Park,7,0,Highway,Medium
+Ellora Park,7,1,Residential,High
+Ellora Park,8,0,Commercial,Very High
+Ellora Park,8,1,Commercial,High
+Ellora Park,9,0,Highway,Very High
+Ellora Park,9,1,Main Road,Very High
+Ellora Park,10,0,Main Road,Medium
+Ellora Park,10,1,Commercial,High
+Ellora Park,11,0,Highway,Low
+Ellora Park,11,1,Commercial,Low
+Ellora Park,12,0,Highway,Low
+Ellora Park,12,1,Main Road,Low
+Ellora Park,13,0,Highway,Low
+Ellora Park,13,1,Residential,Low
+Ellora Park,14,0,Main Road,Low
+Ellora Park,14,1,Commercial,Medium
+Ellora Park,15,0,Highway,Low
+Ellora Park,15,1,Commercial,Low
+Ellora Park,16,0,Residential,High
+Ellora Park,16,1,Residential,Medium
+Ellora Park,17,0,Commercial,Very High
+Ellora Park,17,1,Commercial,High
+Ellora Park,18,0,Commercial,Very High
+Ellora Park,18,1,Main Road,Very High
+Ellora Park,19,0,Main Road,High
+Ellora Park,19,1,Main Road,High
+Ellora Park,20,0,Highway,Medium
+Ellora Park,20,1,Residential,Low
+Ellora Park,21,0,Highway,Medium
+Ellora Park,21,1,Residential,Medium
+Ellora Park,22,0,Commercial,Medium
+Ellora Park,22,1,Commercial,Medium
+Ellora Park,23,0,Highway,Medium
+Ellora Park,23,1,Main Road,Low
+Harni,0,0,Main Road,Medium
+Harni,0,1,Commercial,Medium
+Harni,1,0,Residential,Low
+Harni,1,1,Highway,Low
+Harni,2,0,Commercial,Low
+Harni,2,1,Main Road,Low
+Harni,3,0,Main Road,Medium
+Harni,3,1,Highway,Low
+Harni,4,0,Main Road,Medium
+Harni,4,1,Commercial,Medium
+Harni,5,0,Commercial,Medium
+Harni,5,1,Residential,Medium
+Harni,6,0,Residential,Low
+Harni,6,1,Residential,Low
+Harni,7,0,Residential,Medium
+Harni,7,1,Commercial,High
+Harni,8,0,Highway,High
+Harni,8,1,Highway,High
+Harni,9,0,Commercial,Very High
+Harni,9,1,Residential,High
+Harni,10,0,Residential,Medium
+Harni,10,1,Residential,Medium
+Harni,11,0,Commercial,Low
+Harni,11,1,Main Road,Medium
+Harni,12,0,Main Road,Medium
+Harni,12,1,Commercial,Low
+Harni,13,0,Residential,Low
+Harni,13,1,Main Road,Medium
+Harni,14,0,Commercial,Low
+Harni,14,1,Main Road,Medium
+Harni,15,0,Highway,Low
+Harni,15,1,Commercial,Low
+Harni,16,0,Highway,Medium
+Harni,16,1,Commercial,High
+Harni,17,0,Highway,High
+Harni,17,1,Commercial,High
+Harni,18,0,Main Road,High
+Harni,18,1,Residential,High
+Harni,19,0,Residential,High
+Harni,19,1,Highway,High
+Harni,20,0,Main Road,Low
+Harni,20,1,Main Road,Medium
+Harni,21,0,Main Road,Low
+Harni,21,1,Commercial,Low
+Harni,22,0,Commercial,Low
+Harni,22,1,Residential,Medium
+Harni,23,0,Commercial,Medium
+Harni,23,1,Main Road,Low
+Chhani,0,0,Residential,Medium
+Chhani,0,1,Main Road,Medium
+Chhani,1,0,Residential,Low
+Chhani,1,1,Highway,Low
+Chhani,2,0,Residential,Medium
+Chhani,2,1,Highway,Low
+Chhani,3,0,Residential,Medium
+Chhani,3,1,Main Road,Low
+Chhani,4,0,Residential,Medium
+Chhani,4,1,Commercial,Medium
+Chhani,5,0,Residential,Medium
+Chhani,5,1,Main Road,Low
+Chhani,6,0,Residential,Medium
+Chhani,6,1,Main Road,Low
+Chhani,7,0,Commercial,High
+Chhani,7,1,Commercial,Medium
+Chhani,8,0,Highway,High
+Chhani,8,1,Main Road,High
+Chhani,9,0,Highway,Very High
+Chhani,9,1,Commercial,Very High
+Chhani,10,0,Highway,High
+Chhani,10,1,Commercial,Medium
+Chhani,11,0,Commercial,Medium
+Chhani,11,1,Main Road,Low
+Chhani,12,0,Residential,Low
+Chhani,12,1,Main Road,Low
+Chhani,13,0,Residential,Low
+Chhani,13,1,Residential,Low
+Chhani,14,0,Commercial,Medium
+Chhani,14,1,Residential,Low
+Chhani,15,0,Main Road,Low
+Chhani,15,1,Highway,Medium
+Chhani,16,0,Commercial,Medium
+Chhani,16,1,Highway,High
+Chhani,17,0,Highway,High
+Chhani,17,1,Commercial,Very High
+Chhani,18,0,Main Road,Very High
+Chhani,18,1,Highway,Very High
+Chhani,19,0,Highway,Medium
+Chhani,19,1,Main Road,Medium
+Chhani,20,0,Commercial,Medium
+Chhani,20,1,Commercial,Low
+Chhani,21,0,Highway,Low
+Chhani,21,1,Highway,Low
+Chhani,22,0,Commercial,Low
+Chhani,22,1,Commercial,Medium
+Chhani,23,0,Commercial,Low
+Chhani,23,1,Residential,Low

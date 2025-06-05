@@ -1,0 +1,601 @@
+source,destination,distance_km,estimated_time_min,traffic_level,road_type,is_weekend
+Nizampura,Subhanpura,12.74,25,Low,Highway,0
+Nizampura,Old Padra Road,13.13,53,High,Highway,0
+Vasna-Bhayli Road,Makarpura,9.94,40,High,Main Road,1
+Old Padra Road,Ellora Park,10.35,21,Low,Main Road,1
+Sayajigunj,Subhanpura,5.61,22,High,Highway,0
+Waghodia Road,Chhani,8.09,32,High,Local,1
+Sayajigunj,Nizampura,13.7,41,Medium,Local,1
+Sayajigunj,Nizampura,13.56,54,High,Highway,1
+Akota,Waghodia Road,10.89,33,Medium,Highway,0
+Tarsali,Karelibaug,14.26,43,Medium,Main Road,0
+Chhani,Makarpura,14.64,44,Medium,Main Road,0
+Gotri,Alkapuri,10.54,21,Low,Main Road,0
+Gotri,Karelibaug,5.77,12,Low,Main Road,0
+Alkapuri,Sayajigunj,8.64,35,High,Main Road,0
+Akota,Alkapuri,3.5,10,Medium,Main Road,0
+Makarpura,Subhanpura,4.14,8,Low,Highway,0
+Old Padra Road,Tarsali,7.4,22,Medium,Local,0
+Sayajigunj,Subhanpura,10.63,21,Low,Local,1
+Waghodia Road,Alkapuri,2.84,9,Medium,Main Road,0
+Ellora Park,Fatehgunj,3.57,21,Very High,Main Road,1
+Harni,Ellora Park,11.25,34,Medium,Main Road,0
+Vasna-Bhayli Road,Makarpura,13.62,54,High,Highway,1
+Karelibaug,Tarsali,10.63,32,Medium,Highway,1
+Waghodia Road,Old Padra Road,2.86,11,High,Highway,1
+Vasna-Bhayli Road,Tarsali,6.02,24,High,Main Road,0
+Ajwa Road,Tarsali,2.73,11,High,Main Road,1
+Waghodia Road,Old Padra Road,12.93,26,Low,Main Road,0
+Ellora Park,Sayajigunj,13.9,42,Medium,Local,1
+Karelibaug,Manjalpur,9.58,19,Low,Local,1
+Sayajigunj,Manjalpur,14.16,85,Very High,Local,1
+Old Padra Road,Ellora Park,5.6,17,Medium,Highway,1
+Akota,Nizampura,3.15,9,Medium,Main Road,1
+Waghodia Road,Ellora Park,7.57,23,Medium,Main Road,0
+Sayajigunj,Vasna-Bhayli Road,3.65,11,Medium,Main Road,0
+Vasna-Bhayli Road,Old Padra Road,2.59,8,Medium,Local,0
+Nizampura,Fatehgunj,8.55,51,Very High,Main Road,1
+Sayajigunj,Gotri,13.56,27,Low,Highway,0
+Akota,Fatehgunj,13.91,28,Low,Local,1
+Karelibaug,Old Padra Road,11.28,45,High,Local,0
+Makarpura,Nizampura,8.86,27,Medium,Local,0
+Nizampura,Tarsali,9.98,30,Medium,Highway,0
+Harni,Subhanpura,11.92,48,High,Highway,0
+Nizampura,Waghodia Road,13.37,53,High,Local,0
+Tarsali,Chhani,9.62,29,Medium,Main Road,0
+Alkapuri,Manjalpur,2.35,7,Medium,Local,1
+Akota,Alkapuri,5.19,10,Low,Main Road,0
+Harni,Nizampura,9.75,29,Medium,Main Road,1
+Alkapuri,Vasna-Bhayli Road,8.21,16,Low,Main Road,1
+Sayajigunj,Karelibaug,14.5,44,Medium,Local,0
+Alkapuri,Manjalpur,10.35,21,Low,Local,0
+Karelibaug,Akota,9.32,19,Low,Highway,1
+Gotri,Ajwa Road,3.42,10,Medium,Highway,0
+Nizampura,Chhani,12.1,36,Medium,Main Road,0
+Nizampura,Vasna-Bhayli Road,4.13,12,Medium,Main Road,1
+Nizampura,Chhani,13.46,27,Low,Local,0
+Makarpura,Karelibaug,9.6,29,Medium,Local,1
+Harni,Subhanpura,7.93,24,Medium,Highway,0
+Vasna-Bhayli Road,Ajwa Road,9.87,20,Low,Highway,0
+Ellora Park,Gotri,5.06,30,Very High,Local,0
+Akota,Karelibaug,9.19,28,Medium,Local,1
+Karelibaug,Sayajigunj,2.15,13,Very High,Local,1
+Fatehgunj,Vasna-Bhayli Road,6.3,19,Medium,Local,0
+Tarsali,Subhanpura,5.25,32,Very High,Highway,0
+Chhani,Vasna-Bhayli Road,2.65,16,Very High,Local,0
+Alkapuri,Fatehgunj,10.92,33,Medium,Local,0
+Manjalpur,Harni,11.75,24,Low,Local,0
+Ajwa Road,Tarsali,13.23,40,Medium,Local,1
+Subhanpura,Old Padra Road,10.59,42,High,Main Road,1
+Sayajigunj,Makarpura,14.73,29,Low,Main Road,1
+Nizampura,Manjalpur,4.64,9,Low,Main Road,1
+Gotri,Subhanpura,7.27,44,Very High,Highway,1
+Subhanpura,Makarpura,8.08,16,Low,Highway,1
+Chhani,Tarsali,14.66,88,Very High,Main Road,0
+Makarpura,Subhanpura,11.99,24,Low,Main Road,0
+Waghodia Road,Karelibaug,5.1,31,Very High,Main Road,1
+Gotri,Old Padra Road,4.14,12,Medium,Local,0
+Makarpura,Harni,13.95,56,High,Main Road,0
+Sayajigunj,Waghodia Road,10.85,33,Medium,Local,0
+Akota,Ellora Park,12.72,51,High,Local,0
+Manjalpur,Karelibaug,10.07,40,High,Highway,0
+Manjalpur,Makarpura,8.99,27,Medium,Local,1
+Harni,Chhani,9.46,28,Medium,Highway,1
+Karelibaug,Subhanpura,2.41,7,Medium,Main Road,0
+Waghodia Road,Old Padra Road,6.61,13,Low,Local,0
+Chhani,Nizampura,6.18,37,Very High,Main Road,0
+Subhanpura,Gotri,14.95,90,Very High,Local,1
+Old Padra Road,Subhanpura,10.71,21,Low,Main Road,0
+Ajwa Road,Tarsali,2.04,4,Low,Main Road,0
+Waghodia Road,Manjalpur,4.47,27,Very High,Main Road,0
+Ellora Park,Nizampura,4.58,27,Very High,Local,0
+Vasna-Bhayli Road,Sayajigunj,8.17,33,High,Highway,0
+Nizampura,Tarsali,2.9,12,High,Main Road,1
+Harni,Manjalpur,6.8,27,High,Local,0
+Manjalpur,Makarpura,6.65,40,Very High,Local,0
+Subhanpura,Gotri,12.03,36,Medium,Main Road,1
+Alkapuri,Ajwa Road,2.34,7,Medium,Highway,1
+Makarpura,Vasna-Bhayli Road,2.5,8,Medium,Highway,1
+Makarpura,Chhani,9.14,18,Low,Highway,0
+Tarsali,Vasna-Bhayli Road,13.59,41,Medium,Main Road,1
+Manjalpur,Vasna-Bhayli Road,2.73,8,Medium,Main Road,0
+Akota,Ellora Park,7.04,28,High,Main Road,1
+Ajwa Road,Akota,5.09,20,High,Main Road,0
+Gotri,Tarsali,4.98,10,Low,Local,0
+Gotri,Makarpura,11.48,69,Very High,Local,1
+Subhanpura,Gotri,6.01,24,High,Highway,1
+Gotri,Vasna-Bhayli Road,5.86,23,High,Main Road,0
+Ellora Park,Vasna-Bhayli Road,12.9,39,Medium,Local,0
+Tarsali,Manjalpur,10.03,40,High,Highway,1
+Akota,Chhani,11.86,71,Very High,Main Road,0
+Fatehgunj,Gotri,8.52,26,Medium,Local,1
+Nizampura,Akota,11.5,34,Medium,Local,1
+Gotri,Old Padra Road,11.68,70,Very High,Local,0
+Vasna-Bhayli Road,Harni,2.81,11,High,Main Road,1
+Old Padra Road,Subhanpura,11.85,24,Low,Main Road,1
+Gotri,Makarpura,4.13,17,High,Local,0
+Akota,Nizampura,8.77,26,Medium,Highway,1
+Ellora Park,Vasna-Bhayli Road,13.19,40,Medium,Highway,0
+Fatehgunj,Chhani,2.04,8,High,Highway,0
+Gotri,Chhani,3.98,8,Low,Main Road,0
+Makarpura,Ajwa Road,4.9,10,Low,Local,1
+Fatehgunj,Waghodia Road,11.86,47,High,Main Road,0
+Sayajigunj,Ajwa Road,9.59,38,High,Highway,0
+Nizampura,Manjalpur,4.65,19,High,Highway,0
+Ajwa Road,Chhani,3.99,16,High,Main Road,1
+Karelibaug,Vasna-Bhayli Road,9.15,27,Medium,Highway,1
+Vasna-Bhayli Road,Manjalpur,8.06,32,High,Highway,0
+Akota,Waghodia Road,6.33,19,Medium,Highway,1
+Manjalpur,Harni,12.19,37,Medium,Local,1
+Manjalpur,Old Padra Road,4.84,19,High,Highway,1
+Subhanpura,Nizampura,12.97,26,Low,Highway,1
+Ajwa Road,Harni,10.13,30,Medium,Local,0
+Fatehgunj,Subhanpura,11.73,35,Medium,Main Road,0
+Chhani,Subhanpura,11.78,24,Low,Main Road,0
+Subhanpura,Alkapuri,8.65,26,Medium,Highway,1
+Old Padra Road,Sayajigunj,3.97,24,Very High,Main Road,1
+Akota,Old Padra Road,4.74,9,Low,Main Road,1
+Gotri,Nizampura,9.62,29,Medium,Local,1
+Subhanpura,Harni,11.91,36,Medium,Local,0
+Sayajigunj,Nizampura,4.28,13,Medium,Local,1
+Tarsali,Gotri,6.86,27,High,Main Road,0
+Waghodia Road,Old Padra Road,12.11,36,Medium,Highway,0
+Old Padra Road,Fatehgunj,8.03,16,Low,Highway,0
+Ellora Park,Akota,7.29,22,Medium,Main Road,0
+Alkapuri,Chhani,7.3,15,Low,Main Road,0
+Vasna-Bhayli Road,Subhanpura,12.29,25,Low,Local,0
+Nizampura,Old Padra Road,6.08,24,High,Local,0
+Gotri,Manjalpur,2.88,9,Medium,Highway,1
+Chhani,Alkapuri,12.01,48,High,Main Road,1
+Sayajigunj,Vasna-Bhayli Road,13.43,40,Medium,Main Road,1
+Karelibaug,Ellora Park,11.77,71,Very High,Main Road,0
+Akota,Nizampura,12.97,26,Low,Main Road,1
+Vasna-Bhayli Road,Harni,9.83,29,Medium,Highway,1
+Nizampura,Manjalpur,8.89,18,Low,Main Road,1
+Karelibaug,Manjalpur,9.38,56,Very High,Local,0
+Manjalpur,Fatehgunj,7.63,46,Very High,Local,0
+Vasna-Bhayli Road,Harni,14.81,59,High,Main Road,1
+Gotri,Old Padra Road,14.73,59,High,Local,1
+Gotri,Ellora Park,12.3,37,Medium,Local,1
+Manjalpur,Alkapuri,11.24,22,Low,Main Road,0
+Vasna-Bhayli Road,Subhanpura,5.69,34,Very High,Local,0
+Ajwa Road,Sayajigunj,14.11,42,Medium,Local,0
+Ellora Park,Karelibaug,6.64,20,Medium,Local,0
+Harni,Tarsali,9.59,38,High,Main Road,0
+Vasna-Bhayli Road,Chhani,8.27,25,Medium,Highway,0
+Vasna-Bhayli Road,Ellora Park,12.55,25,Low,Main Road,1
+Waghodia Road,Chhani,10.65,43,High,Main Road,1
+Old Padra Road,Akota,7.52,45,Very High,Highway,1
+Chhani,Ajwa Road,7.86,16,Low,Highway,1
+Makarpura,Ellora Park,10.43,31,Medium,Highway,1
+Alkapuri,Ellora Park,7.07,21,Medium,Local,0
+Akota,Manjalpur,2.73,11,High,Local,1
+Ajwa Road,Akota,7.74,31,High,Local,0
+Fatehgunj,Ajwa Road,3.99,8,Low,Main Road,0
+Sayajigunj,Vasna-Bhayli Road,5.82,17,Medium,Main Road,0
+Ajwa Road,Subhanpura,10.13,61,Very High,Main Road,0
+Chhani,Makarpura,7.2,29,High,Highway,1
+Old Padra Road,Sayajigunj,12.02,72,Very High,Main Road,0
+Tarsali,Ajwa Road,9.86,39,High,Highway,0
+Subhanpura,Sayajigunj,12.23,24,Low,Local,0
+Ellora Park,Tarsali,2.06,8,High,Main Road,1
+Gotri,Waghodia Road,11.06,22,Low,Local,1
+Fatehgunj,Manjalpur,4.29,13,Medium,Main Road,1
+Makarpura,Vasna-Bhayli Road,10.17,31,Medium,Local,0
+Alkapuri,Fatehgunj,11.9,36,Medium,Main Road,1
+Chhani,Subhanpura,14.17,85,Very High,Highway,1
+Akota,Nizampura,4.36,17,High,Local,1
+Ellora Park,Manjalpur,14.57,87,Very High,Highway,0
+Ajwa Road,Akota,11.17,34,Medium,Main Road,1
+Vasna-Bhayli Road,Alkapuri,6.43,13,Low,Highway,1
+Old Padra Road,Fatehgunj,14.48,43,Medium,Main Road,0
+Alkapuri,Sayajigunj,2.07,6,Medium,Main Road,1
+Karelibaug,Harni,3.77,8,Low,Main Road,0
+Nizampura,Makarpura,2.52,5,Low,Main Road,0
+Karelibaug,Harni,10.21,20,Low,Local,1
+Tarsali,Alkapuri,4.36,26,Very High,Main Road,1
+Tarsali,Subhanpura,10.52,21,Low,Local,1
+Vasna-Bhayli Road,Makarpura,12.41,50,High,Highway,1
+Sayajigunj,Ellora Park,7.93,16,Low,Main Road,1
+Waghodia Road,Ajwa Road,2.71,11,High,Highway,0
+Alkapuri,Tarsali,3.83,23,Very High,Local,0
+Chhani,Karelibaug,3.86,8,Low,Main Road,0
+Alkapuri,Chhani,4.74,19,High,Local,0
+Alkapuri,Chhani,4.29,9,Low,Highway,1
+Harni,Alkapuri,7.53,30,High,Main Road,0
+Makarpura,Subhanpura,14.01,56,High,Main Road,0
+Makarpura,Chhani,10.47,63,Very High,Main Road,0
+Ellora Park,Manjalpur,4.22,8,Low,Main Road,1
+Ellora Park,Fatehgunj,9.51,29,Medium,Main Road,1
+Vasna-Bhayli Road,Akota,8.63,52,Very High,Local,1
+Makarpura,Akota,2.91,12,High,Main Road,0
+Makarpura,Tarsali,13.6,27,Low,Highway,0
+Chhani,Tarsali,7.22,22,Medium,Main Road,0
+Vasna-Bhayli Road,Harni,14.03,42,Medium,Highway,0
+Ajwa Road,Makarpura,13.72,41,Medium,Highway,0
+Vasna-Bhayli Road,Old Padra Road,10.21,20,Low,Highway,0
+Ajwa Road,Gotri,2.37,5,Low,Main Road,0
+Chhani,Sayajigunj,7.8,31,High,Highway,1
+Manjalpur,Tarsali,9.4,28,Medium,Highway,1
+Ellora Park,Tarsali,3.47,7,Low,Main Road,1
+Nizampura,Akota,7.77,23,Medium,Highway,1
+Harni,Nizampura,7.08,42,Very High,Main Road,0
+Nizampura,Harni,3.48,7,Low,Main Road,0
+Old Padra Road,Karelibaug,8.5,51,Very High,Highway,0
+Ajwa Road,Tarsali,2.83,11,High,Local,1
+Manjalpur,Karelibaug,13.03,39,Medium,Highway,0
+Sayajigunj,Gotri,5.51,22,High,Local,0
+Nizampura,Chhani,9.39,56,Very High,Highway,1
+Karelibaug,Alkapuri,10.34,41,High,Highway,0
+Fatehgunj,Nizampura,13.46,54,High,Local,1
+Old Padra Road,Chhani,2.57,10,High,Local,0
+Harni,Akota,8.19,49,Very High,Local,1
+Ellora Park,Akota,7.09,14,Low,Local,1
+Old Padra Road,Vasna-Bhayli Road,6.8,27,High,Main Road,0
+Karelibaug,Manjalpur,11.18,22,Low,Local,0
+Makarpura,Vasna-Bhayli Road,7.12,43,Very High,Main Road,1
+Tarsali,Karelibaug,12.07,36,Medium,Local,1
+Chhani,Manjalpur,6.98,21,Medium,Highway,1
+Chhani,Ajwa Road,11.14,22,Low,Local,1
+Waghodia Road,Ajwa Road,7.19,43,Very High,Local,1
+Gotri,Alkapuri,2.41,5,Low,Highway,0
+Vasna-Bhayli Road,Ellora Park,8.96,36,High,Local,1
+Tarsali,Old Padra Road,3.73,7,Low,Highway,0
+Nizampura,Makarpura,4.44,9,Low,Local,0
+Gotri,Subhanpura,3.41,7,Low,Local,0
+Waghodia Road,Vasna-Bhayli Road,6.97,42,Very High,Highway,0
+Makarpura,Waghodia Road,4.68,19,High,Main Road,0
+Tarsali,Waghodia Road,8.61,17,Low,Local,0
+Akota,Ajwa Road,7.47,15,Low,Local,0
+Chhani,Ajwa Road,9.47,28,Medium,Local,0
+Subhanpura,Ellora Park,2.79,11,High,Main Road,1
+Tarsali,Manjalpur,12.14,24,Low,Local,0
+Fatehgunj,Harni,10.38,31,Medium,Main Road,1
+Makarpura,Karelibaug,12.93,39,Medium,Main Road,0
+Nizampura,Sayajigunj,8.36,25,Medium,Highway,1
+Karelibaug,Gotri,10.48,21,Low,Highway,0
+Waghodia Road,Manjalpur,7.4,15,Low,Highway,0
+Harni,Manjalpur,7.96,16,Low,Local,1
+Vasna-Bhayli Road,Ajwa Road,9.14,27,Medium,Local,0
+Karelibaug,Nizampura,6.67,13,Low,Highway,1
+Akota,Old Padra Road,2.42,7,Medium,Local,1
+Alkapuri,Nizampura,4.8,29,Very High,Main Road,0
+Alkapuri,Subhanpura,5.94,18,Medium,Local,1
+Vasna-Bhayli Road,Ellora Park,11.97,72,Very High,Main Road,0
+Karelibaug,Gotri,8.29,33,High,Local,0
+Waghodia Road,Subhanpura,8.98,18,Low,Main Road,1
+Karelibaug,Makarpura,14.25,57,High,Local,0
+Karelibaug,Old Padra Road,11.08,33,Medium,Highway,1
+Sayajigunj,Tarsali,9.01,36,High,Local,1
+Ajwa Road,Vasna-Bhayli Road,5.12,10,Low,Local,0
+Alkapuri,Makarpura,5.37,21,High,Local,1
+Alkapuri,Makarpura,3.85,15,High,Local,0
+Waghodia Road,Tarsali,12.57,38,Medium,Main Road,0
+Akota,Old Padra Road,8.59,26,Medium,Local,1
+Waghodia Road,Old Padra Road,6.49,13,Low,Main Road,1
+Akota,Subhanpura,10.44,31,Medium,Highway,0
+Manjalpur,Vasna-Bhayli Road,13.93,42,Medium,Main Road,0
+Chhani,Subhanpura,2.91,12,High,Highway,0
+Karelibaug,Fatehgunj,6.5,13,Low,Main Road,1
+Akota,Sayajigunj,11.34,23,Low,Main Road,1
+Harni,Fatehgunj,11.49,46,High,Highway,1
+Ajwa Road,Waghodia Road,10.36,62,Very High,Main Road,0
+Nizampura,Subhanpura,5.11,15,Medium,Local,1
+Ellora Park,Tarsali,14.14,42,Medium,Highway,1
+Nizampura,Chhani,13.53,54,High,Highway,0
+Gotri,Vasna-Bhayli Road,13.9,56,High,Main Road,0
+Fatehgunj,Akota,7.45,30,High,Highway,1
+Waghodia Road,Fatehgunj,8.98,27,Medium,Local,1
+Waghodia Road,Chhani,8.27,25,Medium,Highway,0
+Akota,Vasna-Bhayli Road,3.84,8,Low,Local,0
+Gotri,Manjalpur,2.87,6,Low,Main Road,0
+Karelibaug,Alkapuri,4.12,12,Medium,Highway,1
+Tarsali,Makarpura,4.48,9,Low,Highway,0
+Chhani,Ellora Park,14.88,45,Medium,Main Road,0
+Karelibaug,Waghodia Road,7.19,22,Medium,Main Road,1
+Waghodia Road,Fatehgunj,12.48,25,Low,Local,1
+Makarpura,Sayajigunj,11.65,35,Medium,Main Road,0
+Makarpura,Chhani,12.4,74,Very High,Highway,0
+Subhanpura,Makarpura,14.33,57,High,Highway,0
+Sayajigunj,Chhani,3.21,10,Medium,Main Road,1
+Makarpura,Vasna-Bhayli Road,12.28,49,High,Local,0
+Fatehgunj,Tarsali,3.98,24,Very High,Local,0
+Makarpura,Alkapuri,6.43,39,Very High,Main Road,1
+Fatehgunj,Alkapuri,3.89,8,Low,Main Road,1
+Fatehgunj,Subhanpura,14.45,43,Medium,Highway,1
+Fatehgunj,Karelibaug,10.11,30,Medium,Local,1
+Tarsali,Subhanpura,12.57,38,Medium,Local,0
+Waghodia Road,Nizampura,7.24,14,Low,Highway,1
+Tarsali,Vasna-Bhayli Road,8.89,27,Medium,Main Road,0
+Harni,Akota,8.54,26,Medium,Main Road,1
+Ajwa Road,Waghodia Road,6.54,20,Medium,Main Road,1
+Nizampura,Akota,6.71,20,Medium,Local,0
+Harni,Sayajigunj,12.3,25,Low,Local,0
+Ellora Park,Nizampura,14.53,44,Medium,Highway,0
+Tarsali,Gotri,5.55,22,High,Highway,1
+Nizampura,Akota,11.13,33,Medium,Main Road,0
+Sayajigunj,Ellora Park,12.9,39,Medium,Local,1
+Fatehgunj,Sayajigunj,6.96,28,High,Highway,0
+Ellora Park,Makarpura,10.63,43,High,Highway,0
+Ajwa Road,Chhani,10.17,31,Medium,Local,0
+Ajwa Road,Waghodia Road,7.42,45,Very High,Highway,0
+Subhanpura,Waghodia Road,4.55,9,Low,Highway,0
+Tarsali,Ellora Park,5.5,16,Medium,Highway,0
+Sayajigunj,Ellora Park,12.8,38,Medium,Local,0
+Nizampura,Vasna-Bhayli Road,3.97,12,Medium,Highway,1
+Makarpura,Fatehgunj,10.52,63,Very High,Local,1
+Subhanpura,Vasna-Bhayli Road,11.09,44,High,Highway,0
+Chhani,Subhanpura,2.48,7,Medium,Main Road,0
+Karelibaug,Old Padra Road,5.5,11,Low,Highway,0
+Tarsali,Gotri,12.58,50,High,Highway,0
+Fatehgunj,Ellora Park,11.72,23,Low,Local,0
+Harni,Subhanpura,8.5,34,High,Local,1
+Karelibaug,Ajwa Road,7.81,23,Medium,Local,1
+Tarsali,Karelibaug,12.07,36,Medium,Main Road,1
+Chhani,Fatehgunj,5.71,23,High,Main Road,0
+Vasna-Bhayli Road,Old Padra Road,5.28,11,Low,Main Road,1
+Tarsali,Sayajigunj,12.49,50,High,Main Road,1
+Old Padra Road,Gotri,6.26,13,Low,Highway,0
+Akota,Subhanpura,11.92,36,Medium,Highway,1
+Vasna-Bhayli Road,Nizampura,7.11,28,High,Main Road,0
+Sayajigunj,Makarpura,7.2,14,Low,Main Road,0
+Sayajigunj,Waghodia Road,14.06,42,Medium,Main Road,1
+Tarsali,Harni,5.22,21,High,Highway,1
+Vasna-Bhayli Road,Chhani,4.82,10,Low,Highway,0
+Alkapuri,Gotri,3.98,24,Very High,Local,1
+Old Padra Road,Ajwa Road,6.36,13,Low,Highway,0
+Waghodia Road,Chhani,8.34,33,High,Highway,1
+Waghodia Road,Akota,5.74,17,Medium,Local,0
+Waghodia Road,Nizampura,6.77,20,Medium,Local,0
+Alkapuri,Karelibaug,2.23,13,Very High,Highway,0
+Tarsali,Subhanpura,9.77,29,Medium,Main Road,0
+Karelibaug,Ellora Park,5.75,17,Medium,Main Road,1
+Manjalpur,Alkapuri,2.98,9,Medium,Main Road,1
+Harni,Ajwa Road,11.59,70,Very High,Main Road,1
+Waghodia Road,Nizampura,6.65,20,Medium,Highway,1
+Vasna-Bhayli Road,Ajwa Road,5.94,18,Medium,Highway,1
+Vasna-Bhayli Road,Tarsali,5.98,24,High,Local,1
+Subhanpura,Akota,13.59,54,High,Highway,1
+Sayajigunj,Vasna-Bhayli Road,13.68,55,High,Local,0
+Chhani,Makarpura,5.56,22,High,Highway,0
+Alkapuri,Makarpura,3.51,11,Medium,Highway,1
+Alkapuri,Tarsali,14.26,57,High,Local,0
+Ellora Park,Gotri,12.67,38,Medium,Main Road,0
+Subhanpura,Tarsali,12.36,25,Low,Main Road,1
+Fatehgunj,Tarsali,13.37,53,High,Local,0
+Gotri,Ellora Park,4.56,14,Medium,Local,0
+Ellora Park,Karelibaug,5.94,18,Medium,Main Road,0
+Subhanpura,Nizampura,2.39,10,High,Main Road,0
+Tarsali,Karelibaug,8.57,17,Low,Highway,0
+Ajwa Road,Tarsali,7.09,43,Very High,Main Road,0
+Waghodia Road,Ajwa Road,8.51,26,Medium,Local,0
+Subhanpura,Gotri,6.79,27,High,Local,1
+Harni,Akota,6.73,27,High,Highway,1
+Chhani,Subhanpura,7.47,22,Medium,Local,1
+Makarpura,Ellora Park,9.24,28,Medium,Main Road,0
+Chhani,Akota,11.08,22,Low,Highway,0
+Ellora Park,Nizampura,2.27,7,Medium,Main Road,0
+Ellora Park,Karelibaug,3.5,10,Medium,Main Road,0
+Nizampura,Tarsali,14.31,29,Low,Main Road,0
+Alkapuri,Sayajigunj,4.37,9,Low,Local,1
+Fatehgunj,Harni,13.53,54,High,Local,0
+Subhanpura,Sayajigunj,4.1,25,Very High,Main Road,1
+Manjalpur,Vasna-Bhayli Road,2.11,4,Low,Local,1
+Sayajigunj,Subhanpura,13.01,52,High,Local,0
+Sayajigunj,Akota,11.99,48,High,Local,0
+Akota,Manjalpur,9.21,55,Very High,Main Road,0
+Harni,Waghodia Road,13.93,42,Medium,Local,0
+Manjalpur,Chhani,3.95,8,Low,Local,0
+Subhanpura,Manjalpur,11.79,24,Low,Main Road,1
+Fatehgunj,Harni,10.43,31,Medium,Local,0
+Gotri,Makarpura,7.1,21,Medium,Local,0
+Subhanpura,Ellora Park,4.99,20,High,Local,1
+Subhanpura,Ajwa Road,14.34,43,Medium,Highway,0
+Tarsali,Makarpura,9.37,56,Very High,Main Road,0
+Manjalpur,Sayajigunj,8.99,27,Medium,Local,0
+Ajwa Road,Vasna-Bhayli Road,8.43,25,Medium,Main Road,1
+Subhanpura,Ajwa Road,4.62,9,Low,Main Road,0
+Akota,Karelibaug,6.61,40,Very High,Highway,1
+Tarsali,Ellora Park,14.24,43,Medium,Highway,1
+Makarpura,Manjalpur,12.66,38,Medium,Local,1
+Tarsali,Ellora Park,4.66,9,Low,Main Road,1
+Nizampura,Sayajigunj,12.89,52,High,Main Road,1
+Akota,Gotri,11.1,44,High,Main Road,1
+Subhanpura,Ellora Park,13.24,26,Low,Local,1
+Akota,Vasna-Bhayli Road,8.92,36,High,Main Road,0
+Waghodia Road,Ajwa Road,12.76,38,Medium,Main Road,1
+Tarsali,Vasna-Bhayli Road,4.73,28,Very High,Local,1
+Fatehgunj,Chhani,14.51,44,Medium,Local,0
+Ellora Park,Sayajigunj,8.5,51,Very High,Local,1
+Ellora Park,Akota,2.31,9,High,Main Road,0
+Gotri,Vasna-Bhayli Road,7.63,15,Low,Local,1
+Harni,Subhanpura,8.04,16,Low,Highway,0
+Ellora Park,Ajwa Road,9.32,19,Low,Highway,1
+Gotri,Tarsali,3.01,6,Low,Local,1
+Subhanpura,Alkapuri,3.05,18,Very High,Highway,0
+Sayajigunj,Gotri,7.04,42,Very High,Highway,0
+Chhani,Gotri,9.86,30,Medium,Local,0
+Manjalpur,Chhani,14.3,29,Low,Local,0
+Subhanpura,Tarsali,7.19,14,Low,Highway,1
+Waghodia Road,Karelibaug,5.14,21,High,Highway,1
+Harni,Subhanpura,9.23,28,Medium,Highway,0
+Vasna-Bhayli Road,Makarpura,10.74,32,Medium,Main Road,1
+Makarpura,Tarsali,11.29,23,Low,Highway,1
+Vasna-Bhayli Road,Manjalpur,12.61,50,High,Local,0
+Fatehgunj,Ellora Park,3.73,15,High,Highway,0
+Tarsali,Ellora Park,10.78,43,High,Highway,0
+Tarsali,Old Padra Road,14.84,45,Medium,Local,1
+Akota,Karelibaug,14.39,43,Medium,Main Road,1
+Sayajigunj,Karelibaug,14.49,43,Medium,Local,1
+Old Padra Road,Manjalpur,8.78,18,Low,Main Road,0
+Subhanpura,Nizampura,11.74,47,High,Main Road,1
+Karelibaug,Ellora Park,2.25,7,Medium,Main Road,0
+Chhani,Manjalpur,8.35,17,Low,Local,0
+Waghodia Road,Tarsali,4.02,24,Very High,Main Road,0
+Waghodia Road,Old Padra Road,6.87,14,Low,Highway,1
+Ellora Park,Gotri,7.53,15,Low,Highway,1
+Chhani,Karelibaug,13.2,40,Medium,Highway,1
+Tarsali,Nizampura,11.87,36,Medium,Main Road,1
+Old Padra Road,Gotri,3.38,10,Medium,Local,0
+Tarsali,Gotri,3.39,14,High,Main Road,0
+Karelibaug,Ellora Park,3.44,14,High,Main Road,0
+Karelibaug,Vasna-Bhayli Road,14.04,42,Medium,Main Road,1
+Tarsali,Gotri,12.47,75,Very High,Highway,1
+Gotri,Tarsali,8.08,32,High,Highway,0
+Chhani,Makarpura,9.19,28,Medium,Highway,0
+Harni,Ajwa Road,14.22,43,Medium,Local,0
+Nizampura,Waghodia Road,6.49,13,Low,Main Road,0
+Nizampura,Gotri,11.89,36,Medium,Highway,0
+Waghodia Road,Manjalpur,2.92,9,Medium,Local,1
+Vasna-Bhayli Road,Ajwa Road,3.84,15,High,Highway,0
+Vasna-Bhayli Road,Ellora Park,4.94,20,High,Local,1
+Harni,Karelibaug,2.09,13,Very High,Local,1
+Harni,Tarsali,3.1,6,Low,Main Road,0
+Fatehgunj,Nizampura,2.92,12,High,Highway,1
+Karelibaug,Vasna-Bhayli Road,6.16,18,Medium,Local,0
+Akota,Old Padra Road,2.07,8,High,Highway,0
+Sayajigunj,Gotri,5.9,24,High,Main Road,0
+Gotri,Manjalpur,6.78,20,Medium,Local,1
+Karelibaug,Old Padra Road,4.37,9,Low,Local,0
+Sayajigunj,Fatehgunj,9.96,30,Medium,Local,1
+Akota,Sayajigunj,14.22,85,Very High,Local,0
+Akota,Fatehgunj,4.2,17,High,Local,1
+Gotri,Karelibaug,6.09,18,Medium,Local,1
+Manjalpur,Ajwa Road,2.7,5,Low,Main Road,0
+Gotri,Fatehgunj,3.98,12,Medium,Main Road,1
+Harni,Tarsali,10.06,20,Low,Main Road,1
+Harni,Waghodia Road,10.08,40,High,Main Road,1
+Gotri,Fatehgunj,10.94,66,Very High,Highway,1
+Waghodia Road,Chhani,6.36,13,Low,Highway,1
+Karelibaug,Nizampura,2.14,6,Medium,Local,0
+Fatehgunj,Nizampura,8.46,25,Medium,Main Road,0
+Nizampura,Akota,12.37,49,High,Local,1
+Fatehgunj,Alkapuri,3.14,9,Medium,Highway,0
+Sayajigunj,Chhani,4.53,18,High,Highway,1
+Chhani,Alkapuri,13.4,27,Low,Main Road,1
+Gotri,Waghodia Road,4.31,13,Medium,Local,1
+Fatehgunj,Ajwa Road,5.76,23,High,Highway,0
+Waghodia Road,Vasna-Bhayli Road,13.74,27,Low,Main Road,0
+Karelibaug,Harni,9.41,38,High,Main Road,0
+Harni,Ellora Park,14.77,44,Medium,Highway,0
+Makarpura,Akota,4.42,9,Low,Main Road,0
+Old Padra Road,Gotri,14.07,56,High,Main Road,1
+Karelibaug,Old Padra Road,5.76,12,Low,Highway,1
+Manjalpur,Karelibaug,9.9,20,Low,Local,1
+Sayajigunj,Nizampura,4.69,19,High,Main Road,0
+Ellora Park,Sayajigunj,4.79,29,Very High,Main Road,0
+Gotri,Vasna-Bhayli Road,8.05,24,Medium,Highway,0
+Waghodia Road,Fatehgunj,14.45,29,Low,Main Road,1
+Vasna-Bhayli Road,Sayajigunj,5.78,17,Medium,Highway,1
+Chhani,Harni,4,12,Medium,Main Road,0
+Subhanpura,Alkapuri,3.8,8,Low,Highway,1
+Vasna-Bhayli Road,Harni,12.23,37,Medium,Local,1
+Sayajigunj,Vasna-Bhayli Road,12.77,77,Very High,Local,0
+Waghodia Road,Old Padra Road,10.53,32,Medium,Highway,0
+Chhani,Gotri,6.62,13,Low,Local,1
+Ellora Park,Ajwa Road,12.42,25,Low,Main Road,0
+Nizampura,Alkapuri,11.36,34,Medium,Local,0
+Fatehgunj,Nizampura,7.49,15,Low,Main Road,0
+Old Padra Road,Manjalpur,4.17,17,High,Local,0
+Harni,Manjalpur,11.25,34,Medium,Main Road,1
+Ajwa Road,Fatehgunj,9.69,39,High,Main Road,0
+Akota,Fatehgunj,3.24,10,Medium,Highway,1
+Manjalpur,Subhanpura,6.15,25,High,Local,0
+Manjalpur,Tarsali,9.08,18,Low,Main Road,0
+Chhani,Karelibaug,5.93,18,Medium,Highway,0
+Nizampura,Sayajigunj,9.95,60,Very High,Local,0
+Akota,Chhani,14.87,59,High,Local,0
+Vasna-Bhayli Road,Alkapuri,9.91,20,Low,Main Road,1
+Makarpura,Fatehgunj,9.16,27,Medium,Local,1
+Subhanpura,Ellora Park,4.63,9,Low,Highway,1
+Sayajigunj,Ellora Park,11.3,34,Medium,Main Road,0
+Vasna-Bhayli Road,Nizampura,7.18,14,Low,Local,1
+Old Padra Road,Makarpura,4.08,16,High,Local,0
+Ajwa Road,Alkapuri,8.22,16,Low,Highway,1
+Nizampura,Sayajigunj,11.42,34,Medium,Highway,1
+Old Padra Road,Makarpura,12.34,37,Medium,Main Road,1
+Karelibaug,Old Padra Road,10.73,43,High,Main Road,1
+Subhanpura,Nizampura,7.65,31,High,Highway,1
+Harni,Ajwa Road,12.59,38,Medium,Main Road,0
+Alkapuri,Chhani,10.99,44,High,Local,0
+Makarpura,Nizampura,8.92,54,Very High,Local,1
+Subhanpura,Akota,13.78,41,Medium,Main Road,1
+Harni,Gotri,9.68,19,Low,Highway,0
+Gotri,Tarsali,4.05,16,High,Local,1
+Fatehgunj,Akota,4.69,14,Medium,Highway,0
+Karelibaug,Chhani,8.71,52,Very High,Highway,1
+Alkapuri,Akota,9.46,28,Medium,Highway,0
+Fatehgunj,Tarsali,13.82,55,High,Main Road,1
+Alkapuri,Vasna-Bhayli Road,12.5,38,Medium,Main Road,1
+Makarpura,Ajwa Road,13.85,83,Very High,Main Road,1
+Fatehgunj,Makarpura,10.98,22,Low,Highway,0
+Ajwa Road,Tarsali,12.24,24,Low,Local,1
+Ellora Park,Subhanpura,14.31,57,High,Highway,1
+Sayajigunj,Alkapuri,3.66,15,High,Main Road,0
+Ellora Park,Manjalpur,13.39,40,Medium,Main Road,0
+Subhanpura,Sayajigunj,9.23,37,High,Highway,0
+Harni,Fatehgunj,11.84,36,Medium,Local,1
+Akota,Harni,9.17,28,Medium,Local,1
+Fatehgunj,Ajwa Road,9.18,28,Medium,Highway,1
+Karelibaug,Makarpura,14.82,44,Medium,Highway,1
+Harni,Chhani,4.95,15,Medium,Main Road,0
+Makarpura,Tarsali,13.41,80,Very High,Local,0
+Tarsali,Alkapuri,5.42,11,Low,Local,1
+Vasna-Bhayli Road,Nizampura,2.12,6,Medium,Main Road,0
+Tarsali,Manjalpur,7.62,23,Medium,Main Road,1
+Alkapuri,Akota,13.44,27,Low,Highway,1
+Makarpura,Chhani,5.21,16,Medium,Main Road,1
+Old Padra Road,Fatehgunj,9.02,36,High,Highway,1
+Chhani,Vasna-Bhayli Road,4.56,9,Low,Main Road,1
+Subhanpura,Waghodia Road,2.98,12,High,Local,1
+Manjalpur,Nizampura,10.31,41,High,Local,0
+Subhanpura,Waghodia Road,2.15,9,High,Highway,0
+Waghodia Road,Akota,13.65,41,Medium,Main Road,0
+Waghodia Road,Vasna-Bhayli Road,2.66,11,High,Main Road,0
+Karelibaug,Makarpura,7.22,14,Low,Main Road,0
+Akota,Waghodia Road,2.94,9,Medium,Local,0
+Nizampura,Manjalpur,7.22,14,Low,Local,0
+Subhanpura,Gotri,12.5,75,Very High,Highway,1
+Alkapuri,Nizampura,3.54,14,High,Highway,1
+Ellora Park,Sayajigunj,3.81,8,Low,Main Road,0
+Waghodia Road,Nizampura,6.99,14,Low,Local,0
+Sayajigunj,Akota,3.67,22,Very High,Highway,0
+Vasna-Bhayli Road,Ajwa Road,6.71,20,Medium,Local,0
+Tarsali,Sayajigunj,6.06,12,Low,Main Road,1
+Makarpura,Sayajigunj,5.07,15,Medium,Local,0
+Chhani,Old Padra Road,13.6,41,Medium,Main Road,0
+Nizampura,Harni,3.13,9,Medium,Main Road,0
+Ellora Park,Akota,12.48,37,Medium,Highway,1
+Subhanpura,Tarsali,6.78,20,Medium,Main Road,0
+Ajwa Road,Karelibaug,10.49,42,High,Highway,1
+Sayajigunj,Ajwa Road,6.82,20,Medium,Local,1
+Sayajigunj,Manjalpur,5.18,10,Low,Local,1
+Gotri,Vasna-Bhayli Road,2.51,8,Medium,Highway,0
+Manjalpur,Nizampura,12.35,25,Low,Local,1
+Tarsali,Nizampura,14.26,57,High,Highway,1
+Waghodia Road,Nizampura,13.72,27,Low,Local,0
+Nizampura,Ellora Park,3.72,7,Low,Highway,1
+Fatehgunj,Tarsali,3.08,18,Very High,Highway,1
+Subhanpura,Alkapuri,13.14,79,Very High,Highway,1
+Vasna-Bhayli Road,Sayajigunj,5.08,10,Low,Local,0
+Ellora Park,Old Padra Road,6.99,42,Very High,Local,1
+Harni,Gotri,9.11,18,Low,Main Road,1
+Old Padra Road,Vasna-Bhayli Road,10.32,62,Very High,Main Road,1
+Waghodia Road,Alkapuri,10.42,63,Very High,Local,0
+Tarsali,Alkapuri,12.85,39,Medium,Local,1
+Vasna-Bhayli Road,Subhanpura,3.9,12,Medium,Highway,1
+Manjalpur,Makarpura,10.63,64,Very High,Highway,1
+Gotri,Fatehgunj,2.57,15,Very High,Main Road,0
+Harni,Karelibaug,14.64,88,Very High,Highway,1
+Sayajigunj,Ellora Park,6.92,28,High,Main Road,0
+Old Padra Road,Karelibaug,5.28,16,Medium,Local,1
+Makarpura,Old Padra Road,10.4,31,Medium,Main Road,1
+Chhani,Vasna-Bhayli Road,11.49,23,Low,Local,0
+Waghodia Road,Fatehgunj,2.53,8,Medium,Local,1
+Karelibaug,Sayajigunj,7.12,14,Low,Main Road,0
+Karelibaug,Waghodia Road,14.36,43,Medium,Local,0
+Karelibaug,Chhani,5.78,17,Medium,Local,1
+Ellora Park,Sayajigunj,9.79,39,High,Highway,1
+Manjalpur,Makarpura,2.63,11,High,Main Road,1
+Manjalpur,Waghodia Road,6.35,19,Medium,Highway,0
+Karelibaug,Akota,6.82,27,High,Local,1
