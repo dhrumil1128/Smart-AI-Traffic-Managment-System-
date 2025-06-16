@@ -1,0 +1,1001 @@
+signal_id,location,current_hour,day_type,predicted_green_time_sec,predicted_red_time_sec,predicted_yellow_time_sec,confidence
+SIG_101,Alkapuri Circle,6,Weekday,52,63,5,0.87
+SIG_105,Akota Circle,17,Weekday,64,51,5,0.86
+SIG_104,Old Padra Road,1,Weekday,77,38,5,0.95
+SIG_103,Fatehgunj Cross,16,Weekday,60,55,5,0.94
+SIG_102,Sayajigunj Circle,10,Weekday,71,44,5,0.93
+SIG_101,Alkapuri Circle,11,Weekday,78,37,5,0.91
+SIG_019,Karelibaug Junction,18,Weekend,74,41,5,0.97
+SIG_103,Fatehgunj Cross,21,Weekend,77,38,5,0.88
+SIG_103,Fatehgunj Cross,23,Weekend,82,33,5,0.89
+SIG_004,Makarpura GIDC,6,Weekday,67,48,5,0.85
+SIG_102,Sayajigunj Circle,19,Weekend,67,48,5,0.94
+SIG_003,Vasna-Bhayli Road,5,Weekday,78,37,5,0.91
+SIG_002,Gotri Crossing,20,Weekend,51,64,5,0.91
+SIG_012,Waghodia Road Circle,23,Weekend,53,62,5,0.92
+SIG_006,Ajwa Road Junction,0,Weekday,75,40,5,0.92
+SIG_002,Gotri Crossing,16,Weekday,43,72,5,0.91
+SIG_001,Tarsali Bypass,10,Weekday,67,48,5,0.93
+SIG_012,Waghodia Road Circle,21,Weekend,58,57,5,0.95
+SIG_012,Waghodia Road Circle,17,Weekday,66,49,5,0.93
+SIG_017,Manjalpur Chowkdi,20,Weekend,84,31,5,0.95
+SIG_010,Nizampura Circle,16,Weekday,63,52,5,0.86
+SIG_016,Harni Circle,6,Weekday,42,73,5,0.86
+SIG_104,Old Padra Road,16,Weekday,65,50,5,0.88
+SIG_104,Old Padra Road,19,Weekend,82,33,5,0.97
+SIG_019,Karelibaug Junction,8,Weekday,46,69,5,0.91
+SIG_012,Waghodia Road Circle,16,Weekday,99,16,5,0.89
+SIG_105,Akota Circle,19,Weekend,56,59,5,0.96
+SIG_003,Vasna-Bhayli Road,21,Weekend,75,40,5,0.86
+SIG_005,Kalali Road,21,Weekend,66,49,5,0.96
+SIG_019,Karelibaug Junction,7,Weekday,78,37,5,0.96
+SIG_101,Alkapuri Circle,16,Weekday,45,70,5,0.91
+SIG_009,Akshar Chowk,6,Weekday,52,63,5,0.94
+SIG_101,Alkapuri Circle,0,Weekday,47,68,5,0.9
+SIG_018,Jetalpur Road,12,Weekday,51,64,5,0.89
+SIG_004,Makarpura GIDC,22,Weekend,78,37,5,0.95
+SIG_014,Sama Savli Road,18,Weekend,76,39,5,0.94
+SIG_018,Jetalpur Road,23,Weekend,74,41,5,0.9
+SIG_009,Akshar Chowk,18,Weekend,67,48,5,0.88
+SIG_002,Gotri Crossing,16,Weekday,42,73,5,0.94
+SIG_105,Akota Circle,12,Weekday,61,54,5,0.89
+SIG_104,Old Padra Road,15,Weekday,52,63,5,0.94
+SIG_101,Alkapuri Circle,7,Weekday,57,58,5,0.86
+SIG_012,Waghodia Road Circle,18,Weekend,79,36,5,0.87
+SIG_102,Sayajigunj Circle,17,Weekday,53,62,5,0.95
+SIG_104,Old Padra Road,0,Weekday,33,82,5,0.86
+SIG_003,Vasna-Bhayli Road,13,Weekday,58,57,5,0.94
+SIG_014,Sama Savli Road,18,Weekend,53,62,5,0.96
+SIG_017,Manjalpur Chowkdi,14,Weekday,49,66,5,0.93
+SIG_004,Makarpura GIDC,17,Weekday,93,22,5,0.96
+SIG_018,Jetalpur Road,1,Weekday,62,53,5,0.85
+SIG_102,Sayajigunj Circle,21,Weekend,66,49,5,0.9
+SIG_004,Makarpura GIDC,16,Weekday,88,27,5,0.86
+SIG_002,Gotri Crossing,17,Weekday,78,37,5,0.87
+SIG_006,Ajwa Road Junction,5,Weekday,51,64,5,0.86
+SIG_010,Nizampura Circle,18,Weekend,60,55,5,0.97
+SIG_004,Makarpura GIDC,3,Weekday,69,46,5,0.91
+SIG_018,Jetalpur Road,0,Weekday,79,36,5,0.96
+SIG_012,Waghodia Road Circle,7,Weekday,79,36,5,0.89
+SIG_002,Gotri Crossing,22,Weekend,67,48,5,0.91
+SIG_010,Nizampura Circle,6,Weekday,69,46,5,0.92
+SIG_004,Makarpura GIDC,2,Weekday,68,47,5,0.86
+SIG_014,Sama Savli Road,9,Weekday,53,62,5,0.88
+SIG_016,Harni Circle,9,Weekday,64,51,5,0.89
+SIG_104,Old Padra Road,18,Weekend,77,38,5,0.93
+SIG_102,Sayajigunj Circle,13,Weekday,59,56,5,0.98
+SIG_014,Sama Savli Road,1,Weekday,93,22,5,0.86
+SIG_102,Sayajigunj Circle,0,Weekday,76,39,5,0.96
+SIG_016,Harni Circle,22,Weekend,44,71,5,0.86
+SIG_013,Gorwa Circle,22,Weekend,56,59,5,0.87
+SIG_018,Jetalpur Road,17,Weekday,31,84,5,0.89
+SIG_104,Old Padra Road,6,Weekday,65,50,5,0.97
+SIG_013,Gorwa Circle,7,Weekday,53,62,5,0.94
+SIG_009,Akshar Chowk,0,Weekday,72,43,5,0.86
+SIG_104,Old Padra Road,22,Weekend,32,83,5,0.96
+SIG_013,Gorwa Circle,2,Weekday,71,44,5,0.94
+SIG_001,Tarsali Bypass,23,Weekend,75,40,5,0.87
+SIG_101,Alkapuri Circle,22,Weekend,74,41,5,0.89
+SIG_009,Akshar Chowk,7,Weekday,63,52,5,0.97
+SIG_001,Tarsali Bypass,21,Weekend,62,53,5,0.97
+SIG_012,Waghodia Road Circle,14,Weekday,76,39,5,0.92
+SIG_102,Sayajigunj Circle,4,Weekday,77,38,5,0.94
+SIG_103,Fatehgunj Cross,2,Weekday,53,62,5,0.88
+SIG_019,Karelibaug Junction,18,Weekend,72,43,5,0.94
+SIG_017,Manjalpur Chowkdi,0,Weekday,65,50,5,0.93
+SIG_102,Sayajigunj Circle,14,Weekday,72,43,5,0.96
+SIG_003,Vasna-Bhayli Road,7,Weekday,66,49,5,0.86
+SIG_003,Vasna-Bhayli Road,1,Weekday,64,51,5,0.87
+SIG_001,Tarsali Bypass,2,Weekday,61,54,5,0.86
+SIG_005,Kalali Road,23,Weekend,80,35,5,0.95
+SIG_010,Nizampura Circle,13,Weekday,66,49,5,0.85
+SIG_101,Alkapuri Circle,23,Weekend,50,65,5,0.95
+SIG_009,Akshar Chowk,13,Weekday,83,32,5,0.88
+SIG_101,Alkapuri Circle,10,Weekday,71,44,5,0.88
+SIG_009,Akshar Chowk,15,Weekday,78,37,5,0.95
+SIG_102,Sayajigunj Circle,3,Weekday,43,72,5,0.9
+SIG_012,Waghodia Road Circle,19,Weekend,62,53,5,0.89
+SIG_002,Gotri Crossing,4,Weekday,31,84,5,0.92
+SIG_001,Tarsali Bypass,21,Weekend,49,66,5,0.94
+SIG_016,Harni Circle,20,Weekend,51,64,5,0.9
+SIG_005,Kalali Road,13,Weekday,52,63,5,0.93
+SIG_003,Vasna-Bhayli Road,22,Weekend,64,51,5,0.86
+SIG_012,Waghodia Road Circle,15,Weekday,40,75,5,0.91
+SIG_102,Sayajigunj Circle,17,Weekday,45,70,5,0.88
+SIG_003,Vasna-Bhayli Road,6,Weekday,89,26,5,0.86
+SIG_001,Tarsali Bypass,9,Weekday,53,62,5,0.96
+SIG_003,Vasna-Bhayli Road,6,Weekday,68,47,5,0.97
+SIG_005,Kalali Road,0,Weekday,84,31,5,0.87
+SIG_104,Old Padra Road,22,Weekend,42,73,5,0.88
+SIG_014,Sama Savli Road,20,Weekend,66,49,5,0.97
+SIG_003,Vasna-Bhayli Road,18,Weekend,79,36,5,0.92
+SIG_001,Tarsali Bypass,15,Weekday,80,35,5,0.92
+SIG_005,Kalali Road,18,Weekend,73,42,5,0.9
+SIG_014,Sama Savli Road,3,Weekday,33,82,5,0.9
+SIG_101,Alkapuri Circle,17,Weekday,67,48,5,0.88
+SIG_009,Akshar Chowk,1,Weekday,79,36,5,0.86
+SIG_104,Old Padra Road,0,Weekday,57,58,5,0.95
+SIG_104,Old Padra Road,14,Weekday,70,45,5,0.96
+SIG_010,Nizampura Circle,4,Weekday,68,47,5,0.87
+SIG_013,Gorwa Circle,19,Weekend,46,69,5,0.95
+SIG_019,Karelibaug Junction,10,Weekday,71,44,5,0.89
+SIG_101,Alkapuri Circle,9,Weekday,82,33,5,0.9
+SIG_017,Manjalpur Chowkdi,1,Weekday,49,66,5,0.97
+SIG_105,Akota Circle,2,Weekday,46,69,5,0.94
+SIG_004,Makarpura GIDC,22,Weekend,55,60,5,0.87
+SIG_005,Kalali Road,22,Weekend,76,39,5,0.9
+SIG_101,Alkapuri Circle,11,Weekday,78,37,5,0.86
+SIG_013,Gorwa Circle,19,Weekend,55,60,5,0.87
+SIG_104,Old Padra Road,4,Weekday,69,46,5,0.88
+SIG_103,Fatehgunj Cross,4,Weekday,65,50,5,0.87
+SIG_004,Makarpura GIDC,5,Weekday,76,39,5,0.88
+SIG_013,Gorwa Circle,8,Weekday,49,66,5,0.88
+SIG_101,Alkapuri Circle,1,Weekday,85,30,5,0.91
+SIG_019,Karelibaug Junction,20,Weekend,36,79,5,0.93
+SIG_002,Gotri Crossing,11,Weekday,82,33,5,0.88
+SIG_010,Nizampura Circle,2,Weekday,93,22,5,0.89
+SIG_013,Gorwa Circle,19,Weekend,62,53,5,0.97
+SIG_006,Ajwa Road Junction,21,Weekend,83,32,5,0.92
+SIG_012,Waghodia Road Circle,11,Weekday,47,68,5,0.93
+SIG_012,Waghodia Road Circle,23,Weekend,43,72,5,0.88
+SIG_105,Akota Circle,16,Weekday,68,47,5,0.93
+SIG_103,Fatehgunj Cross,9,Weekday,45,70,5,0.95
+SIG_101,Alkapuri Circle,23,Weekend,77,38,5,0.87
+SIG_001,Tarsali Bypass,13,Weekday,69,46,5,0.88
+SIG_001,Tarsali Bypass,22,Weekend,61,54,5,0.92
+SIG_105,Akota Circle,16,Weekday,68,47,5,0.98
+SIG_013,Gorwa Circle,17,Weekday,81,34,5,0.9
+SIG_009,Akshar Chowk,18,Weekend,73,42,5,0.93
+SIG_003,Vasna-Bhayli Road,16,Weekday,93,22,5,0.92
+SIG_101,Alkapuri Circle,13,Weekday,31,84,5,0.91
+SIG_006,Ajwa Road Junction,8,Weekday,61,54,5,0.97
+SIG_102,Sayajigunj Circle,7,Weekday,60,55,5,0.95
+SIG_009,Akshar Chowk,1,Weekday,31,84,5,0.95
+SIG_005,Kalali Road,12,Weekday,74,41,5,0.9
+SIG_001,Tarsali Bypass,6,Weekday,51,64,5,0.92
+SIG_019,Karelibaug Junction,8,Weekday,57,58,5,0.94
+SIG_010,Nizampura Circle,21,Weekend,81,34,5,0.85
+SIG_012,Waghodia Road Circle,21,Weekend,64,51,5,0.92
+SIG_104,Old Padra Road,10,Weekday,55,60,5,0.9
+SIG_009,Akshar Chowk,13,Weekday,32,83,5,0.96
+SIG_105,Akota Circle,3,Weekday,66,49,5,0.97
+SIG_017,Manjalpur Chowkdi,12,Weekday,47,68,5,0.93
+SIG_017,Manjalpur Chowkdi,1,Weekday,72,43,5,0.85
+SIG_105,Akota Circle,22,Weekend,68,47,5,0.93
+SIG_012,Waghodia Road Circle,4,Weekday,67,48,5,0.89
+SIG_101,Alkapuri Circle,10,Weekday,76,39,5,0.87
+SIG_002,Gotri Crossing,5,Weekday,55,60,5,0.97
+SIG_003,Vasna-Bhayli Road,17,Weekday,69,46,5,0.9
+SIG_017,Manjalpur Chowkdi,20,Weekend,89,26,5,0.93
+SIG_005,Kalali Road,9,Weekday,39,76,5,0.95
+SIG_017,Manjalpur Chowkdi,3,Weekday,44,71,5,0.95
+SIG_017,Manjalpur Chowkdi,8,Weekday,69,46,5,0.87
+SIG_017,Manjalpur Chowkdi,5,Weekday,68,47,5,0.92
+SIG_002,Gotri Crossing,1,Weekday,42,73,5,0.94
+SIG_002,Gotri Crossing,16,Weekday,46,69,5,0.95
+SIG_005,Kalali Road,4,Weekday,86,29,5,0.86
+SIG_001,Tarsali Bypass,5,Weekday,71,44,5,0.93
+SIG_001,Tarsali Bypass,11,Weekday,59,56,5,0.98
+SIG_019,Karelibaug Junction,22,Weekend,36,79,5,0.88
+SIG_002,Gotri Crossing,20,Weekend,63,52,5,0.86
+SIG_012,Waghodia Road Circle,9,Weekday,98,17,5,0.86
+SIG_006,Ajwa Road Junction,21,Weekend,41,74,5,0.97
+SIG_004,Makarpura GIDC,20,Weekend,65,50,5,0.96
+SIG_103,Fatehgunj Cross,5,Weekday,85,30,5,0.86
+SIG_017,Manjalpur Chowkdi,7,Weekday,31,84,5,0.86
+SIG_006,Ajwa Road Junction,1,Weekday,45,70,5,0.96
+SIG_005,Kalali Road,11,Weekday,61,54,5,0.97
+SIG_105,Akota Circle,12,Weekday,50,65,5,0.93
+SIG_002,Gotri Crossing,20,Weekend,64,51,5,0.92
+SIG_006,Ajwa Road Junction,6,Weekday,49,66,5,0.95
+SIG_103,Fatehgunj Cross,9,Weekday,69,46,5,0.9
+SIG_016,Harni Circle,12,Weekday,39,76,5,0.93
+SIG_016,Harni Circle,16,Weekday,59,56,5,0.91
+SIG_001,Tarsali Bypass,20,Weekend,65,50,5,0.94
+SIG_009,Akshar Chowk,13,Weekday,70,45,5,0.93
+SIG_006,Ajwa Road Junction,1,Weekday,69,46,5,0.97
+SIG_016,Harni Circle,21,Weekend,55,60,5,0.91
+SIG_003,Vasna-Bhayli Road,10,Weekday,54,61,5,0.91
+SIG_105,Akota Circle,0,Weekday,58,57,5,0.86
+SIG_004,Makarpura GIDC,18,Weekend,64,51,5,0.94
+SIG_019,Karelibaug Junction,20,Weekend,51,64,5,0.89
+SIG_003,Vasna-Bhayli Road,3,Weekday,66,49,5,0.87
+SIG_019,Karelibaug Junction,18,Weekend,56,59,5,0.89
+SIG_105,Akota Circle,20,Weekend,48,67,5,0.87
+SIG_101,Alkapuri Circle,10,Weekday,82,33,5,0.98
+SIG_105,Akota Circle,7,Weekday,47,68,5,0.91
+SIG_009,Akshar Chowk,10,Weekday,56,59,5,0.91
+SIG_001,Tarsali Bypass,3,Weekday,66,49,5,0.86
+SIG_102,Sayajigunj Circle,16,Weekday,75,40,5,0.95
+SIG_101,Alkapuri Circle,6,Weekday,78,37,5,0.88
+SIG_018,Jetalpur Road,7,Weekday,51,64,5,0.87
+SIG_102,Sayajigunj Circle,2,Weekday,56,59,5,0.94
+SIG_001,Tarsali Bypass,21,Weekend,65,50,5,0.92
+SIG_103,Fatehgunj Cross,1,Weekday,48,67,5,0.89
+SIG_018,Jetalpur Road,22,Weekend,41,74,5,0.89
+SIG_010,Nizampura Circle,14,Weekday,88,27,5,0.92
+SIG_003,Vasna-Bhayli Road,23,Weekend,67,48,5,0.91
+SIG_101,Alkapuri Circle,21,Weekend,95,20,5,0.93
+SIG_016,Harni Circle,21,Weekend,65,50,5,0.96
+SIG_016,Harni Circle,4,Weekday,46,69,5,0.93
+SIG_105,Akota Circle,23,Weekend,44,71,5,0.91
+SIG_017,Manjalpur Chowkdi,0,Weekday,53,62,5,0.87
+SIG_002,Gotri Crossing,3,Weekday,66,49,5,0.95
+SIG_001,Tarsali Bypass,14,Weekday,49,66,5,0.94
+SIG_016,Harni Circle,19,Weekend,60,55,5,0.96
+SIG_012,Waghodia Road Circle,18,Weekend,55,60,5,0.98
+SIG_005,Kalali Road,2,Weekday,62,53,5,0.95
+SIG_005,Kalali Road,19,Weekend,50,65,5,0.87
+SIG_009,Akshar Chowk,10,Weekday,77,38,5,0.94
+SIG_009,Akshar Chowk,16,Weekday,60,55,5,0.88
+SIG_003,Vasna-Bhayli Road,12,Weekday,57,58,5,0.91
+SIG_019,Karelibaug Junction,10,Weekday,80,35,5,0.88
+SIG_016,Harni Circle,1,Weekday,81,34,5,0.88
+SIG_016,Harni Circle,8,Weekday,62,53,5,0.94
+SIG_003,Vasna-Bhayli Road,1,Weekday,78,37,5,0.96
+SIG_105,Akota Circle,20,Weekend,58,57,5,0.88
+SIG_001,Tarsali Bypass,8,Weekday,82,33,5,0.92
+SIG_105,Akota Circle,8,Weekday,59,56,5,0.97
+SIG_103,Fatehgunj Cross,7,Weekday,70,45,5,0.87
+SIG_017,Manjalpur Chowkdi,16,Weekday,69,46,5,0.98
+SIG_102,Sayajigunj Circle,0,Weekday,42,73,5,0.88
+SIG_004,Makarpura GIDC,10,Weekday,76,39,5,0.89
+SIG_006,Ajwa Road Junction,7,Weekday,66,49,5,0.91
+SIG_102,Sayajigunj Circle,9,Weekday,86,29,5,0.87
+SIG_105,Akota Circle,6,Weekday,52,63,5,0.97
+SIG_003,Vasna-Bhayli Road,2,Weekday,57,58,5,0.96
+SIG_016,Harni Circle,2,Weekday,51,64,5,0.9
+SIG_003,Vasna-Bhayli Road,17,Weekday,65,50,5,0.96
+SIG_018,Jetalpur Road,4,Weekday,41,74,5,0.88
+SIG_014,Sama Savli Road,11,Weekday,70,45,5,0.93
+SIG_018,Jetalpur Road,11,Weekday,78,37,5,0.92
+SIG_002,Gotri Crossing,18,Weekend,54,61,5,0.87
+SIG_003,Vasna-Bhayli Road,5,Weekday,93,22,5,0.88
+SIG_016,Harni Circle,1,Weekday,67,48,5,0.85
+SIG_009,Akshar Chowk,11,Weekday,70,45,5,0.88
+SIG_004,Makarpura GIDC,18,Weekend,76,39,5,0.87
+SIG_001,Tarsali Bypass,4,Weekday,74,41,5,0.97
+SIG_004,Makarpura GIDC,11,Weekday,55,60,5,0.93
+SIG_001,Tarsali Bypass,16,Weekday,70,45,5,0.97
+SIG_014,Sama Savli Road,16,Weekday,68,47,5,0.87
+SIG_016,Harni Circle,9,Weekday,89,26,5,0.96
+SIG_105,Akota Circle,22,Weekend,41,74,5,0.91
+SIG_102,Sayajigunj Circle,16,Weekday,59,56,5,0.94
+SIG_101,Alkapuri Circle,14,Weekday,60,55,5,0.87
+SIG_003,Vasna-Bhayli Road,11,Weekday,46,69,5,0.95
+SIG_017,Manjalpur Chowkdi,15,Weekday,34,81,5,0.97
+SIG_001,Tarsali Bypass,23,Weekend,74,41,5,0.89
+SIG_016,Harni Circle,18,Weekend,84,31,5,0.97
+SIG_012,Waghodia Road Circle,7,Weekday,78,37,5,0.95
+SIG_019,Karelibaug Junction,20,Weekend,49,66,5,0.87
+SIG_014,Sama Savli Road,16,Weekday,85,30,5,0.92
+SIG_006,Ajwa Road Junction,22,Weekend,52,63,5,0.94
+SIG_006,Ajwa Road Junction,4,Weekday,71,44,5,0.92
+SIG_013,Gorwa Circle,21,Weekend,98,17,5,0.93
+SIG_019,Karelibaug Junction,15,Weekday,45,70,5,0.93
+SIG_102,Sayajigunj Circle,5,Weekday,55,60,5,0.87
+SIG_002,Gotri Crossing,7,Weekday,72,43,5,0.9
+SIG_001,Tarsali Bypass,17,Weekday,61,54,5,0.9
+SIG_104,Old Padra Road,11,Weekday,65,50,5,0.88
+SIG_001,Tarsali Bypass,14,Weekday,78,37,5,0.96
+SIG_005,Kalali Road,8,Weekday,70,45,5,0.9
+SIG_016,Harni Circle,12,Weekday,58,57,5,0.86
+SIG_019,Karelibaug Junction,14,Weekday,69,46,5,0.9
+SIG_004,Makarpura GIDC,9,Weekday,64,51,5,0.95
+SIG_003,Vasna-Bhayli Road,15,Weekday,74,41,5,0.95
+SIG_017,Manjalpur Chowkdi,6,Weekday,47,68,5,0.87
+SIG_017,Manjalpur Chowkdi,16,Weekday,48,67,5,0.87
+SIG_012,Waghodia Road Circle,22,Weekend,33,82,5,0.91
+SIG_014,Sama Savli Road,20,Weekend,71,44,5,0.91
+SIG_006,Ajwa Road Junction,21,Weekend,79,36,5,0.87
+SIG_003,Vasna-Bhayli Road,6,Weekday,89,26,5,0.93
+SIG_009,Akshar Chowk,13,Weekday,65,50,5,0.95
+SIG_005,Kalali Road,14,Weekday,62,53,5,0.96
+SIG_017,Manjalpur Chowkdi,20,Weekend,68,47,5,0.92
+SIG_014,Sama Savli Road,6,Weekday,47,68,5,0.9
+SIG_003,Vasna-Bhayli Road,8,Weekday,56,59,5,0.88
+SIG_001,Tarsali Bypass,18,Weekend,49,66,5,0.87
+SIG_105,Akota Circle,15,Weekday,87,28,5,0.93
+SIG_001,Tarsali Bypass,7,Weekday,75,40,5,0.92
+SIG_003,Vasna-Bhayli Road,17,Weekday,69,46,5,0.91
+SIG_018,Jetalpur Road,22,Weekend,76,39,5,0.9
+SIG_010,Nizampura Circle,17,Weekday,54,61,5,0.97
+SIG_003,Vasna-Bhayli Road,19,Weekend,47,68,5,0.89
+SIG_102,Sayajigunj Circle,6,Weekday,61,54,5,0.91
+SIG_014,Sama Savli Road,2,Weekday,59,56,5,0.91
+SIG_018,Jetalpur Road,17,Weekday,72,43,5,0.88
+SIG_104,Old Padra Road,9,Weekday,61,54,5,0.89
+SIG_002,Gotri Crossing,6,Weekday,48,67,5,0.91
+SIG_010,Nizampura Circle,16,Weekday,34,81,5,0.89
+SIG_002,Gotri Crossing,13,Weekday,74,41,5,0.89
+SIG_017,Manjalpur Chowkdi,23,Weekend,57,58,5,0.93
+SIG_102,Sayajigunj Circle,2,Weekday,53,62,5,0.97
+SIG_001,Tarsali Bypass,11,Weekday,104,11,5,0.98
+SIG_009,Akshar Chowk,12,Weekday,53,62,5,0.94
+SIG_103,Fatehgunj Cross,1,Weekday,62,53,5,0.96
+SIG_016,Harni Circle,2,Weekday,91,24,5,0.93
+SIG_101,Alkapuri Circle,4,Weekday,69,46,5,0.96
+SIG_010,Nizampura Circle,10,Weekday,35,80,5,0.94
+SIG_003,Vasna-Bhayli Road,7,Weekday,73,42,5,0.96
+SIG_018,Jetalpur Road,22,Weekend,54,61,5,0.93
+SIG_013,Gorwa Circle,22,Weekend,72,43,5,0.86
+SIG_101,Alkapuri Circle,11,Weekday,53,62,5,0.91
+SIG_004,Makarpura GIDC,6,Weekday,82,33,5,0.92
+SIG_013,Gorwa Circle,14,Weekday,55,60,5,0.93
+SIG_105,Akota Circle,23,Weekend,65,50,5,0.97
+SIG_001,Tarsali Bypass,16,Weekday,78,37,5,0.95
+SIG_102,Sayajigunj Circle,3,Weekday,36,79,5,0.88
+SIG_014,Sama Savli Road,21,Weekend,79,36,5,0.96
+SIG_016,Harni Circle,12,Weekday,81,34,5,0.91
+SIG_014,Sama Savli Road,17,Weekday,64,51,5,0.9
+SIG_012,Waghodia Road Circle,0,Weekday,67,48,5,0.97
+SIG_019,Karelibaug Junction,15,Weekday,76,39,5,0.97
+SIG_104,Old Padra Road,12,Weekday,56,59,5,0.88
+SIG_002,Gotri Crossing,9,Weekday,61,54,5,0.88
+SIG_002,Gotri Crossing,11,Weekday,74,41,5,0.9
+SIG_019,Karelibaug Junction,1,Weekday,41,74,5,0.95
+SIG_017,Manjalpur Chowkdi,22,Weekend,62,53,5,0.96
+SIG_105,Akota Circle,2,Weekday,98,17,5,0.85
+SIG_010,Nizampura Circle,9,Weekday,45,70,5,0.97
+SIG_006,Ajwa Road Junction,1,Weekday,82,33,5,0.96
+SIG_104,Old Padra Road,22,Weekend,46,69,5,0.93
+SIG_103,Fatehgunj Cross,12,Weekday,53,62,5,0.94
+SIG_005,Kalali Road,12,Weekday,71,44,5,0.86
+SIG_001,Tarsali Bypass,17,Weekday,85,30,5,0.88
+SIG_102,Sayajigunj Circle,2,Weekday,90,25,5,0.88
+SIG_012,Waghodia Road Circle,6,Weekday,77,38,5,0.98
+SIG_012,Waghodia Road Circle,13,Weekday,56,59,5,0.96
+SIG_005,Kalali Road,19,Weekend,59,56,5,0.9
+SIG_101,Alkapuri Circle,16,Weekday,69,46,5,0.96
+SIG_004,Makarpura GIDC,20,Weekend,80,35,5,0.89
+SIG_006,Ajwa Road Junction,11,Weekday,61,54,5,0.87
+SIG_013,Gorwa Circle,15,Weekday,88,27,5,0.89
+SIG_105,Akota Circle,23,Weekend,80,35,5,0.92
+SIG_104,Old Padra Road,11,Weekday,80,35,5,0.97
+SIG_003,Vasna-Bhayli Road,14,Weekday,61,54,5,0.91
+SIG_102,Sayajigunj Circle,9,Weekday,57,58,5,0.9
+SIG_105,Akota Circle,6,Weekday,53,62,5,0.98
+SIG_016,Harni Circle,19,Weekend,49,66,5,0.85
+SIG_013,Gorwa Circle,4,Weekday,86,29,5,0.87
+SIG_018,Jetalpur Road,0,Weekday,77,38,5,0.93
+SIG_010,Nizampura Circle,16,Weekday,38,77,5,0.92
+SIG_019,Karelibaug Junction,2,Weekday,65,50,5,0.93
+SIG_017,Manjalpur Chowkdi,12,Weekday,67,48,5,0.92
+SIG_019,Karelibaug Junction,13,Weekday,112,3,5,0.95
+SIG_005,Kalali Road,23,Weekend,85,30,5,0.95
+SIG_009,Akshar Chowk,17,Weekday,61,54,5,0.97
+SIG_012,Waghodia Road Circle,3,Weekday,47,68,5,0.94
+SIG_001,Tarsali Bypass,17,Weekday,75,40,5,0.95
+SIG_001,Tarsali Bypass,4,Weekday,58,57,5,0.9
+SIG_104,Old Padra Road,15,Weekday,78,37,5,0.93
+SIG_002,Gotri Crossing,0,Weekday,61,54,5,0.97
+SIG_016,Harni Circle,20,Weekend,49,66,5,0.97
+SIG_102,Sayajigunj Circle,13,Weekday,80,35,5,0.87
+SIG_013,Gorwa Circle,14,Weekday,67,48,5,0.98
+SIG_001,Tarsali Bypass,8,Weekday,98,17,5,0.88
+SIG_016,Harni Circle,14,Weekday,70,45,5,0.95
+SIG_101,Alkapuri Circle,16,Weekday,54,61,5,0.96
+SIG_005,Kalali Road,23,Weekend,73,42,5,0.87
+SIG_003,Vasna-Bhayli Road,3,Weekday,55,60,5,0.92
+SIG_012,Waghodia Road Circle,11,Weekday,48,67,5,0.92
+SIG_016,Harni Circle,4,Weekday,74,41,5,0.98
+SIG_019,Karelibaug Junction,4,Weekday,57,58,5,0.9
+SIG_005,Kalali Road,10,Weekday,67,48,5,0.98
+SIG_014,Sama Savli Road,5,Weekday,59,56,5,0.9
+SIG_005,Kalali Road,6,Weekday,75,40,5,0.92
+SIG_104,Old Padra Road,23,Weekend,72,43,5,0.9
+SIG_017,Manjalpur Chowkdi,13,Weekday,77,38,5,0.93
+SIG_014,Sama Savli Road,23,Weekend,60,55,5,0.88
+SIG_105,Akota Circle,10,Weekday,69,46,5,0.86
+SIG_005,Kalali Road,12,Weekday,52,63,5,0.94
+SIG_012,Waghodia Road Circle,1,Weekday,64,51,5,0.87
+SIG_016,Harni Circle,6,Weekday,55,60,5,0.88
+SIG_016,Harni Circle,19,Weekend,81,34,5,0.94
+SIG_101,Alkapuri Circle,3,Weekday,68,47,5,0.89
+SIG_004,Makarpura GIDC,7,Weekday,65,50,5,0.9
+SIG_001,Tarsali Bypass,19,Weekend,49,66,5,0.89
+SIG_005,Kalali Road,21,Weekend,65,50,5,0.89
+SIG_010,Nizampura Circle,20,Weekend,85,30,5,0.86
+SIG_005,Kalali Road,18,Weekend,86,29,5,0.96
+SIG_004,Makarpura GIDC,12,Weekday,31,84,5,0.89
+SIG_002,Gotri Crossing,13,Weekday,63,52,5,0.91
+SIG_105,Akota Circle,9,Weekday,51,64,5,0.89
+SIG_010,Nizampura Circle,10,Weekday,81,34,5,0.94
+SIG_019,Karelibaug Junction,1,Weekday,72,43,5,0.91
+SIG_001,Tarsali Bypass,8,Weekday,73,42,5,0.9
+SIG_005,Kalali Road,16,Weekday,59,56,5,0.88
+SIG_013,Gorwa Circle,2,Weekday,68,47,5,0.95
+SIG_004,Makarpura GIDC,23,Weekend,81,34,5,0.92
+SIG_016,Harni Circle,5,Weekday,43,72,5,0.85
+SIG_016,Harni Circle,4,Weekday,52,63,5,0.97
+SIG_002,Gotri Crossing,4,Weekday,72,43,5,0.93
+SIG_017,Manjalpur Chowkdi,21,Weekend,63,52,5,0.87
+SIG_105,Akota Circle,14,Weekday,56,59,5,0.94
+SIG_012,Waghodia Road Circle,22,Weekend,79,36,5,0.89
+SIG_018,Jetalpur Road,16,Weekday,64,51,5,0.95
+SIG_003,Vasna-Bhayli Road,8,Weekday,60,55,5,0.95
+SIG_001,Tarsali Bypass,2,Weekday,51,64,5,0.94
+SIG_001,Tarsali Bypass,19,Weekend,66,49,5,0.96
+SIG_019,Karelibaug Junction,16,Weekday,77,38,5,0.93
+SIG_103,Fatehgunj Cross,9,Weekday,72,43,5,0.97
+SIG_005,Kalali Road,2,Weekday,66,49,5,0.87
+SIG_012,Waghodia Road Circle,17,Weekday,79,36,5,0.94
+SIG_003,Vasna-Bhayli Road,17,Weekday,75,40,5,0.97
+SIG_001,Tarsali Bypass,16,Weekday,52,63,5,0.96
+SIG_001,Tarsali Bypass,23,Weekend,92,23,5,0.93
+SIG_102,Sayajigunj Circle,2,Weekday,60,55,5,0.9
+SIG_010,Nizampura Circle,2,Weekday,55,60,5,0.93
+SIG_103,Fatehgunj Cross,5,Weekday,47,68,5,0.92
+SIG_012,Waghodia Road Circle,12,Weekday,69,46,5,0.88
+SIG_013,Gorwa Circle,23,Weekend,65,50,5,0.95
+SIG_012,Waghodia Road Circle,14,Weekday,74,41,5,0.88
+SIG_014,Sama Savli Road,8,Weekday,59,56,5,0.89
+SIG_002,Gotri Crossing,3,Weekday,48,67,5,0.93
+SIG_019,Karelibaug Junction,13,Weekday,62,53,5,0.97
+SIG_018,Jetalpur Road,4,Weekday,62,53,5,0.93
+SIG_003,Vasna-Bhayli Road,1,Weekday,52,63,5,0.92
+SIG_017,Manjalpur Chowkdi,10,Weekday,73,42,5,0.86
+SIG_102,Sayajigunj Circle,8,Weekday,65,50,5,0.85
+SIG_010,Nizampura Circle,23,Weekend,43,72,5,0.93
+SIG_002,Gotri Crossing,2,Weekday,78,37,5,0.94
+SIG_019,Karelibaug Junction,8,Weekday,61,54,5,0.86
+SIG_009,Akshar Chowk,2,Weekday,46,69,5,0.85
+SIG_101,Alkapuri Circle,1,Weekday,92,23,5,0.96
+SIG_004,Makarpura GIDC,11,Weekday,47,68,5,0.86
+SIG_018,Jetalpur Road,9,Weekday,46,69,5,0.88
+SIG_013,Gorwa Circle,8,Weekday,81,34,5,0.87
+SIG_103,Fatehgunj Cross,14,Weekday,42,73,5,0.94
+SIG_004,Makarpura GIDC,7,Weekday,51,64,5,0.95
+SIG_004,Makarpura GIDC,4,Weekday,46,69,5,0.96
+SIG_010,Nizampura Circle,10,Weekday,77,38,5,0.93
+SIG_005,Kalali Road,1,Weekday,59,56,5,0.92
+SIG_009,Akshar Chowk,23,Weekend,62,53,5,0.93
+SIG_003,Vasna-Bhayli Road,14,Weekday,48,67,5,0.85
+SIG_017,Manjalpur Chowkdi,5,Weekday,51,64,5,0.92
+SIG_003,Vasna-Bhayli Road,7,Weekday,78,37,5,0.9
+SIG_016,Harni Circle,4,Weekday,57,58,5,0.97
+SIG_004,Makarpura GIDC,15,Weekday,50,65,5,0.94
+SIG_018,Jetalpur Road,17,Weekday,51,64,5,0.96
+SIG_017,Manjalpur Chowkdi,5,Weekday,41,74,5,0.86
+SIG_101,Alkapuri Circle,4,Weekday,43,72,5,0.87
+SIG_005,Kalali Road,15,Weekday,88,27,5,0.89
+SIG_012,Waghodia Road Circle,12,Weekday,68,47,5,0.86
+SIG_017,Manjalpur Chowkdi,4,Weekday,87,28,5,0.96
+SIG_013,Gorwa Circle,12,Weekday,53,62,5,0.91
+SIG_003,Vasna-Bhayli Road,16,Weekday,76,39,5,0.95
+SIG_009,Akshar Chowk,17,Weekday,82,33,5,0.86
+SIG_017,Manjalpur Chowkdi,7,Weekday,66,49,5,0.91
+SIG_017,Manjalpur Chowkdi,12,Weekday,73,42,5,0.94
+SIG_105,Akota Circle,18,Weekend,32,83,5,0.87
+SIG_016,Harni Circle,2,Weekday,65,50,5,0.91
+SIG_013,Gorwa Circle,23,Weekend,65,50,5,0.9
+SIG_019,Karelibaug Junction,7,Weekday,51,64,5,0.93
+SIG_017,Manjalpur Chowkdi,1,Weekday,69,46,5,0.91
+SIG_004,Makarpura GIDC,7,Weekday,89,26,5,0.98
+SIG_012,Waghodia Road Circle,12,Weekday,84,31,5,0.95
+SIG_009,Akshar Chowk,12,Weekday,81,34,5,0.91
+SIG_019,Karelibaug Junction,0,Weekday,89,26,5,0.9
+SIG_012,Waghodia Road Circle,5,Weekday,67,48,5,0.94
+SIG_009,Akshar Chowk,23,Weekend,58,57,5,0.92
+SIG_101,Alkapuri Circle,18,Weekend,45,70,5,0.91
+SIG_014,Sama Savli Road,15,Weekday,84,31,5,0.94
+SIG_105,Akota Circle,7,Weekday,50,65,5,0.85
+SIG_019,Karelibaug Junction,0,Weekday,66,49,5,0.87
+SIG_104,Old Padra Road,15,Weekday,86,29,5,0.95
+SIG_016,Harni Circle,8,Weekday,67,48,5,0.88
+SIG_005,Kalali Road,12,Weekday,49,66,5,0.9
+SIG_003,Vasna-Bhayli Road,10,Weekday,76,39,5,0.95
+SIG_012,Waghodia Road Circle,12,Weekday,57,58,5,0.93
+SIG_105,Akota Circle,20,Weekend,48,67,5,0.95
+SIG_004,Makarpura GIDC,9,Weekday,55,60,5,0.9
+SIG_016,Harni Circle,3,Weekday,45,70,5,0.93
+SIG_101,Alkapuri Circle,5,Weekday,75,40,5,0.86
+SIG_013,Gorwa Circle,6,Weekday,58,57,5,0.89
+SIG_010,Nizampura Circle,4,Weekday,70,45,5,0.89
+SIG_101,Alkapuri Circle,10,Weekday,53,62,5,0.92
+SIG_014,Sama Savli Road,12,Weekday,69,46,5,0.96
+SIG_005,Kalali Road,18,Weekend,57,58,5,0.95
+SIG_003,Vasna-Bhayli Road,22,Weekend,41,74,5,0.88
+SIG_103,Fatehgunj Cross,9,Weekday,44,71,5,0.94
+SIG_103,Fatehgunj Cross,9,Weekday,47,68,5,0.88
+SIG_018,Jetalpur Road,10,Weekday,69,46,5,0.97
+SIG_104,Old Padra Road,20,Weekend,74,41,5,0.9
+SIG_012,Waghodia Road Circle,6,Weekday,48,67,5,0.95
+SIG_009,Akshar Chowk,17,Weekday,54,61,5,0.88
+SIG_010,Nizampura Circle,3,Weekday,65,50,5,0.88
+SIG_012,Waghodia Road Circle,1,Weekday,71,44,5,0.96
+SIG_017,Manjalpur Chowkdi,13,Weekday,89,26,5,0.89
+SIG_006,Ajwa Road Junction,12,Weekday,77,38,5,0.86
+SIG_101,Alkapuri Circle,11,Weekday,68,47,5,0.94
+SIG_014,Sama Savli Road,6,Weekday,87,28,5,0.86
+SIG_013,Gorwa Circle,1,Weekday,85,30,5,0.91
+SIG_102,Sayajigunj Circle,12,Weekday,99,16,5,0.98
+SIG_010,Nizampura Circle,13,Weekday,56,59,5,0.95
+SIG_009,Akshar Chowk,16,Weekday,58,57,5,0.87
+SIG_018,Jetalpur Road,8,Weekday,65,50,5,0.87
+SIG_002,Gotri Crossing,16,Weekday,63,52,5,0.87
+SIG_005,Kalali Road,7,Weekday,88,27,5,0.92
+SIG_005,Kalali Road,1,Weekday,64,51,5,0.92
+SIG_006,Ajwa Road Junction,23,Weekend,95,20,5,0.98
+SIG_019,Karelibaug Junction,12,Weekday,38,77,5,0.89
+SIG_102,Sayajigunj Circle,2,Weekday,55,60,5,0.89
+SIG_016,Harni Circle,15,Weekday,78,37,5,0.89
+SIG_013,Gorwa Circle,5,Weekday,75,40,5,0.95
+SIG_001,Tarsali Bypass,18,Weekend,45,70,5,0.87
+SIG_105,Akota Circle,6,Weekday,57,58,5,0.91
+SIG_017,Manjalpur Chowkdi,9,Weekday,62,53,5,0.87
+SIG_101,Alkapuri Circle,8,Weekday,77,38,5,0.92
+SIG_013,Gorwa Circle,1,Weekday,54,61,5,0.88
+SIG_004,Makarpura GIDC,14,Weekday,75,40,5,0.95
+SIG_004,Makarpura GIDC,4,Weekday,56,59,5,0.91
+SIG_006,Ajwa Road Junction,21,Weekend,72,43,5,0.85
+SIG_019,Karelibaug Junction,3,Weekday,65,50,5,0.91
+SIG_012,Waghodia Road Circle,19,Weekend,47,68,5,0.93
+SIG_101,Alkapuri Circle,3,Weekday,83,32,5,0.95
+SIG_010,Nizampura Circle,17,Weekday,67,48,5,0.92
+SIG_019,Karelibaug Junction,3,Weekday,99,16,5,0.87
+SIG_101,Alkapuri Circle,16,Weekday,51,64,5,0.93
+SIG_003,Vasna-Bhayli Road,11,Weekday,92,23,5,0.94
+SIG_013,Gorwa Circle,21,Weekend,47,68,5,0.94
+SIG_013,Gorwa Circle,16,Weekday,52,63,5,0.92
+SIG_018,Jetalpur Road,9,Weekday,50,65,5,0.94
+SIG_105,Akota Circle,21,Weekend,84,31,5,0.87
+SIG_102,Sayajigunj Circle,0,Weekday,34,81,5,0.97
+SIG_009,Akshar Chowk,21,Weekend,63,52,5,0.96
+SIG_101,Alkapuri Circle,23,Weekend,73,42,5,0.94
+SIG_001,Tarsali Bypass,17,Weekday,47,68,5,0.89
+SIG_003,Vasna-Bhayli Road,17,Weekday,38,77,5,0.93
+SIG_013,Gorwa Circle,13,Weekday,78,37,5,0.91
+SIG_017,Manjalpur Chowkdi,14,Weekday,50,65,5,0.91
+SIG_001,Tarsali Bypass,11,Weekday,74,41,5,0.9
+SIG_006,Ajwa Road Junction,3,Weekday,77,38,5,0.96
+SIG_006,Ajwa Road Junction,2,Weekday,48,67,5,0.89
+SIG_012,Waghodia Road Circle,19,Weekend,81,34,5,0.93
+SIG_013,Gorwa Circle,11,Weekday,48,67,5,0.9
+SIG_013,Gorwa Circle,6,Weekday,51,64,5,0.97
+SIG_104,Old Padra Road,10,Weekday,79,36,5,0.94
+SIG_016,Harni Circle,0,Weekday,69,46,5,0.97
+SIG_103,Fatehgunj Cross,5,Weekday,34,81,5,0.92
+SIG_005,Kalali Road,14,Weekday,74,41,5,0.97
+SIG_004,Makarpura GIDC,14,Weekday,66,49,5,0.91
+SIG_003,Vasna-Bhayli Road,18,Weekend,69,46,5,0.95
+SIG_019,Karelibaug Junction,10,Weekday,76,39,5,0.98
+SIG_105,Akota Circle,22,Weekend,36,79,5,0.97
+SIG_018,Jetalpur Road,1,Weekday,53,62,5,0.89
+SIG_104,Old Padra Road,13,Weekday,59,56,5,0.95
+SIG_009,Akshar Chowk,1,Weekday,63,52,5,0.94
+SIG_017,Manjalpur Chowkdi,3,Weekday,57,58,5,0.85
+SIG_014,Sama Savli Road,16,Weekday,57,58,5,0.87
+SIG_104,Old Padra Road,2,Weekday,76,39,5,0.97
+SIG_001,Tarsali Bypass,12,Weekday,41,74,5,0.92
+SIG_003,Vasna-Bhayli Road,8,Weekday,74,41,5,0.87
+SIG_016,Harni Circle,6,Weekday,60,55,5,0.91
+SIG_103,Fatehgunj Cross,14,Weekday,32,83,5,0.92
+SIG_012,Waghodia Road Circle,22,Weekend,57,58,5,0.97
+SIG_010,Nizampura Circle,10,Weekday,65,50,5,0.86
+SIG_016,Harni Circle,19,Weekend,54,61,5,0.88
+SIG_102,Sayajigunj Circle,1,Weekday,59,56,5,0.87
+SIG_006,Ajwa Road Junction,14,Weekday,69,46,5,0.91
+SIG_012,Waghodia Road Circle,13,Weekday,81,34,5,0.97
+SIG_102,Sayajigunj Circle,19,Weekend,66,49,5,0.88
+SIG_004,Makarpura GIDC,21,Weekend,72,43,5,0.96
+SIG_102,Sayajigunj Circle,10,Weekday,66,49,5,0.87
+SIG_018,Jetalpur Road,2,Weekday,44,71,5,0.91
+SIG_005,Kalali Road,16,Weekday,57,58,5,0.88
+SIG_009,Akshar Chowk,11,Weekday,39,76,5,0.86
+SIG_004,Makarpura GIDC,23,Weekend,61,54,5,0.87
+SIG_017,Manjalpur Chowkdi,20,Weekend,63,52,5,0.93
+SIG_009,Akshar Chowk,14,Weekday,31,84,5,0.94
+SIG_001,Tarsali Bypass,15,Weekday,85,30,5,0.95
+SIG_105,Akota Circle,4,Weekday,63,52,5,0.89
+SIG_013,Gorwa Circle,19,Weekend,71,44,5,0.94
+SIG_016,Harni Circle,5,Weekday,44,71,5,0.97
+SIG_013,Gorwa Circle,18,Weekend,54,61,5,0.91
+SIG_014,Sama Savli Road,4,Weekday,71,44,5,0.97
+SIG_003,Vasna-Bhayli Road,2,Weekday,58,57,5,0.93
+SIG_006,Ajwa Road Junction,0,Weekday,65,50,5,0.95
+SIG_018,Jetalpur Road,5,Weekday,61,54,5,0.9
+SIG_019,Karelibaug Junction,14,Weekday,39,76,5,0.97
+SIG_005,Kalali Road,1,Weekday,49,66,5,0.89
+SIG_104,Old Padra Road,2,Weekday,47,68,5,0.97
+SIG_002,Gotri Crossing,16,Weekday,63,52,5,0.94
+SIG_010,Nizampura Circle,23,Weekend,50,65,5,0.88
+SIG_018,Jetalpur Road,11,Weekday,64,51,5,0.94
+SIG_013,Gorwa Circle,17,Weekday,89,26,5,0.96
+SIG_005,Kalali Road,14,Weekday,74,41,5,0.93
+SIG_001,Tarsali Bypass,11,Weekday,43,72,5,0.97
+SIG_001,Tarsali Bypass,15,Weekday,76,39,5,0.86
+SIG_018,Jetalpur Road,7,Weekday,98,17,5,0.9
+SIG_104,Old Padra Road,13,Weekday,57,58,5,0.91
+SIG_017,Manjalpur Chowkdi,16,Weekday,46,69,5,0.97
+SIG_103,Fatehgunj Cross,20,Weekend,76,39,5,0.89
+SIG_017,Manjalpur Chowkdi,7,Weekday,54,61,5,0.92
+SIG_013,Gorwa Circle,14,Weekday,44,71,5,0.86
+SIG_001,Tarsali Bypass,13,Weekday,46,69,5,0.85
+SIG_002,Gotri Crossing,17,Weekday,44,71,5,0.97
+SIG_009,Akshar Chowk,19,Weekend,51,64,5,0.92
+SIG_003,Vasna-Bhayli Road,6,Weekday,78,37,5,0.94
+SIG_001,Tarsali Bypass,2,Weekday,70,45,5,0.91
+SIG_016,Harni Circle,11,Weekday,82,33,5,0.94
+SIG_006,Ajwa Road Junction,20,Weekend,74,41,5,0.88
+SIG_017,Manjalpur Chowkdi,23,Weekend,51,64,5,0.92
+SIG_005,Kalali Road,2,Weekday,61,54,5,0.96
+SIG_005,Kalali Road,19,Weekend,54,61,5,0.98
+SIG_006,Ajwa Road Junction,13,Weekday,54,61,5,0.97
+SIG_003,Vasna-Bhayli Road,14,Weekday,65,50,5,0.93
+SIG_005,Kalali Road,13,Weekday,72,43,5,0.89
+SIG_005,Kalali Road,6,Weekday,87,28,5,0.89
+SIG_010,Nizampura Circle,16,Weekday,49,66,5,0.92
+SIG_010,Nizampura Circle,11,Weekday,68,47,5,0.85
+SIG_019,Karelibaug Junction,19,Weekend,72,43,5,0.85
+SIG_017,Manjalpur Chowkdi,3,Weekday,99,16,5,0.93
+SIG_014,Sama Savli Road,8,Weekday,84,31,5,0.86
+SIG_009,Akshar Chowk,5,Weekday,67,48,5,0.96
+SIG_014,Sama Savli Road,15,Weekday,69,46,5,0.86
+SIG_001,Tarsali Bypass,21,Weekend,65,50,5,0.87
+SIG_019,Karelibaug Junction,21,Weekend,76,39,5,0.94
+SIG_013,Gorwa Circle,20,Weekend,80,35,5,0.87
+SIG_013,Gorwa Circle,20,Weekend,72,43,5,0.94
+SIG_004,Makarpura GIDC,1,Weekday,65,50,5,0.97
+SIG_001,Tarsali Bypass,23,Weekend,65,50,5,0.94
+SIG_017,Manjalpur Chowkdi,7,Weekday,51,64,5,0.91
+SIG_102,Sayajigunj Circle,10,Weekday,39,76,5,0.92
+SIG_002,Gotri Crossing,12,Weekday,64,51,5,0.87
+SIG_102,Sayajigunj Circle,16,Weekday,61,54,5,0.95
+SIG_101,Alkapuri Circle,7,Weekday,42,73,5,0.9
+SIG_002,Gotri Crossing,20,Weekend,40,75,5,0.92
+SIG_003,Vasna-Bhayli Road,17,Weekday,75,40,5,0.94
+SIG_018,Jetalpur Road,17,Weekday,85,30,5,0.85
+SIG_012,Waghodia Road Circle,13,Weekday,114,1,5,0.96
+SIG_001,Tarsali Bypass,14,Weekday,51,64,5,0.87
+SIG_012,Waghodia Road Circle,5,Weekday,63,52,5,0.95
+SIG_005,Kalali Road,10,Weekday,74,41,5,0.95
+SIG_017,Manjalpur Chowkdi,12,Weekday,73,42,5,0.92
+SIG_016,Harni Circle,0,Weekday,54,61,5,0.87
+SIG_104,Old Padra Road,5,Weekday,42,73,5,0.91
+SIG_104,Old Padra Road,8,Weekday,77,38,5,0.86
+SIG_005,Kalali Road,7,Weekday,81,34,5,0.97
+SIG_014,Sama Savli Road,10,Weekday,74,41,5,0.9
+SIG_002,Gotri Crossing,21,Weekend,58,57,5,0.9
+SIG_103,Fatehgunj Cross,18,Weekend,62,53,5,0.9
+SIG_019,Karelibaug Junction,23,Weekend,81,34,5,0.89
+SIG_101,Alkapuri Circle,8,Weekday,67,48,5,0.87
+SIG_006,Ajwa Road Junction,16,Weekday,85,30,5,0.91
+SIG_002,Gotri Crossing,11,Weekday,65,50,5,0.91
+SIG_006,Ajwa Road Junction,13,Weekday,85,30,5,0.91
+SIG_018,Jetalpur Road,14,Weekday,53,62,5,0.96
+SIG_002,Gotri Crossing,15,Weekday,75,40,5,0.97
+SIG_018,Jetalpur Road,21,Weekend,52,63,5,0.92
+SIG_104,Old Padra Road,21,Weekend,56,59,5,0.97
+SIG_019,Karelibaug Junction,19,Weekend,68,47,5,0.95
+SIG_002,Gotri Crossing,0,Weekday,74,41,5,0.93
+SIG_105,Akota Circle,9,Weekday,48,67,5,0.85
+SIG_006,Ajwa Road Junction,7,Weekday,79,36,5,0.88
+SIG_001,Tarsali Bypass,17,Weekday,62,53,5,0.92
+SIG_104,Old Padra Road,0,Weekday,80,35,5,0.96
+SIG_010,Nizampura Circle,1,Weekday,58,57,5,0.9
+SIG_019,Karelibaug Junction,0,Weekday,90,25,5,0.86
+SIG_017,Manjalpur Chowkdi,0,Weekday,95,20,5,0.87
+SIG_005,Kalali Road,8,Weekday,60,55,5,0.86
+SIG_004,Makarpura GIDC,12,Weekday,74,41,5,0.98
+SIG_010,Nizampura Circle,0,Weekday,71,44,5,0.98
+SIG_017,Manjalpur Chowkdi,12,Weekday,35,80,5,0.95
+SIG_010,Nizampura Circle,19,Weekend,75,40,5,0.98
+SIG_017,Manjalpur Chowkdi,21,Weekend,53,62,5,0.96
+SIG_105,Akota Circle,6,Weekday,69,46,5,0.94
+SIG_005,Kalali Road,1,Weekday,72,43,5,0.87
+SIG_002,Gotri Crossing,5,Weekday,58,57,5,0.91
+SIG_006,Ajwa Road Junction,6,Weekday,87,28,5,0.85
+SIG_002,Gotri Crossing,13,Weekday,89,26,5,0.86
+SIG_013,Gorwa Circle,17,Weekday,51,64,5,0.97
+SIG_103,Fatehgunj Cross,14,Weekday,61,54,5,0.88
+SIG_103,Fatehgunj Cross,1,Weekday,60,55,5,0.91
+SIG_016,Harni Circle,9,Weekday,55,60,5,0.94
+SIG_103,Fatehgunj Cross,22,Weekend,47,68,5,0.87
+SIG_019,Karelibaug Junction,11,Weekday,72,43,5,0.95
+SIG_104,Old Padra Road,16,Weekday,68,47,5,0.95
+SIG_016,Harni Circle,7,Weekday,43,72,5,0.93
+SIG_103,Fatehgunj Cross,10,Weekday,76,39,5,0.89
+SIG_016,Harni Circle,2,Weekday,66,49,5,0.9
+SIG_102,Sayajigunj Circle,5,Weekday,61,54,5,0.88
+SIG_004,Makarpura GIDC,8,Weekday,43,72,5,0.93
+SIG_102,Sayajigunj Circle,5,Weekday,42,73,5,0.86
+SIG_004,Makarpura GIDC,8,Weekday,74,41,5,0.88
+SIG_003,Vasna-Bhayli Road,6,Weekday,45,70,5,0.95
+SIG_003,Vasna-Bhayli Road,8,Weekday,63,52,5,0.88
+SIG_018,Jetalpur Road,17,Weekday,76,39,5,0.95
+SIG_019,Karelibaug Junction,11,Weekday,48,67,5,0.93
+SIG_019,Karelibaug Junction,7,Weekday,62,53,5,0.94
+SIG_005,Kalali Road,7,Weekday,50,65,5,0.86
+SIG_018,Jetalpur Road,17,Weekday,39,76,5,0.86
+SIG_010,Nizampura Circle,19,Weekend,62,53,5,0.89
+SIG_006,Ajwa Road Junction,14,Weekday,64,51,5,0.85
+SIG_001,Tarsali Bypass,6,Weekday,60,55,5,0.91
+SIG_005,Kalali Road,10,Weekday,71,44,5,0.93
+SIG_009,Akshar Chowk,19,Weekend,75,40,5,0.96
+SIG_012,Waghodia Road Circle,15,Weekday,68,47,5,0.88
+SIG_014,Sama Savli Road,3,Weekday,54,61,5,0.98
+SIG_002,Gotri Crossing,5,Weekday,69,46,5,0.85
+SIG_017,Manjalpur Chowkdi,21,Weekend,88,27,5,0.89
+SIG_014,Sama Savli Road,2,Weekday,66,49,5,0.95
+SIG_013,Gorwa Circle,8,Weekday,69,46,5,0.93
+SIG_009,Akshar Chowk,9,Weekday,75,40,5,0.87
+SIG_104,Old Padra Road,13,Weekday,45,70,5,0.95
+SIG_104,Old Padra Road,10,Weekday,80,35,5,0.85
+SIG_103,Fatehgunj Cross,17,Weekday,78,37,5,0.87
+SIG_016,Harni Circle,21,Weekend,54,61,5,0.88
+SIG_017,Manjalpur Chowkdi,11,Weekday,53,62,5,0.91
+SIG_004,Makarpura GIDC,22,Weekend,61,54,5,0.92
+SIG_001,Tarsali Bypass,11,Weekday,71,44,5,0.97
+SIG_102,Sayajigunj Circle,12,Weekday,94,21,5,0.98
+SIG_017,Manjalpur Chowkdi,12,Weekday,59,56,5,0.96
+SIG_003,Vasna-Bhayli Road,18,Weekend,62,53,5,0.96
+SIG_105,Akota Circle,18,Weekend,52,63,5,0.87
+SIG_104,Old Padra Road,22,Weekend,65,50,5,0.96
+SIG_104,Old Padra Road,13,Weekday,68,47,5,0.86
+SIG_014,Sama Savli Road,3,Weekday,69,46,5,0.92
+SIG_014,Sama Savli Road,12,Weekday,65,50,5,0.95
+SIG_002,Gotri Crossing,7,Weekday,62,53,5,0.85
+SIG_013,Gorwa Circle,22,Weekend,73,42,5,0.87
+SIG_014,Sama Savli Road,20,Weekend,73,42,5,0.94
+SIG_019,Karelibaug Junction,22,Weekend,74,41,5,0.93
+SIG_101,Alkapuri Circle,18,Weekend,73,42,5,0.97
+SIG_003,Vasna-Bhayli Road,11,Weekday,51,64,5,0.95
+SIG_104,Old Padra Road,17,Weekday,49,66,5,0.86
+SIG_014,Sama Savli Road,5,Weekday,81,34,5,0.96
+SIG_103,Fatehgunj Cross,17,Weekday,64,51,5,0.97
+SIG_104,Old Padra Road,18,Weekend,56,59,5,0.9
+SIG_013,Gorwa Circle,21,Weekend,77,38,5,0.97
+SIG_018,Jetalpur Road,4,Weekday,44,71,5,0.97
+SIG_006,Ajwa Road Junction,23,Weekend,36,79,5,0.91
+SIG_003,Vasna-Bhayli Road,8,Weekday,78,37,5,0.86
+SIG_019,Karelibaug Junction,2,Weekday,41,74,5,0.93
+SIG_104,Old Padra Road,9,Weekday,70,45,5,0.95
+SIG_005,Kalali Road,18,Weekend,74,41,5,0.87
+SIG_010,Nizampura Circle,2,Weekday,67,48,5,0.92
+SIG_101,Alkapuri Circle,21,Weekend,66,49,5,0.93
+SIG_017,Manjalpur Chowkdi,14,Weekday,55,60,5,0.95
+SIG_101,Alkapuri Circle,0,Weekday,66,49,5,0.95
+SIG_012,Waghodia Road Circle,6,Weekday,43,72,5,0.95
+SIG_017,Manjalpur Chowkdi,11,Weekday,81,34,5,0.89
+SIG_013,Gorwa Circle,16,Weekday,55,60,5,0.88
+SIG_105,Akota Circle,20,Weekend,74,41,5,0.93
+SIG_004,Makarpura GIDC,23,Weekend,71,44,5,0.9
+SIG_010,Nizampura Circle,19,Weekend,85,30,5,0.96
+SIG_003,Vasna-Bhayli Road,4,Weekday,51,64,5,0.92
+SIG_009,Akshar Chowk,3,Weekday,72,43,5,0.87
+SIG_013,Gorwa Circle,11,Weekday,75,40,5,0.87
+SIG_018,Jetalpur Road,19,Weekend,55,60,5,0.92
+SIG_104,Old Padra Road,23,Weekend,33,82,5,0.97
+SIG_004,Makarpura GIDC,17,Weekday,66,49,5,0.9
+SIG_104,Old Padra Road,16,Weekday,78,37,5,0.97
+SIG_002,Gotri Crossing,18,Weekend,60,55,5,0.94
+SIG_104,Old Padra Road,8,Weekday,67,48,5,0.88
+SIG_102,Sayajigunj Circle,3,Weekday,52,63,5,0.92
+SIG_102,Sayajigunj Circle,20,Weekend,72,43,5,0.91
+SIG_017,Manjalpur Chowkdi,1,Weekday,58,57,5,0.95
+SIG_012,Waghodia Road Circle,3,Weekday,57,58,5,0.98
+SIG_019,Karelibaug Junction,1,Weekday,55,60,5,0.91
+SIG_010,Nizampura Circle,14,Weekday,47,68,5,0.87
+SIG_009,Akshar Chowk,1,Weekday,67,48,5,0.94
+SIG_005,Kalali Road,3,Weekday,67,48,5,0.91
+SIG_006,Ajwa Road Junction,5,Weekday,77,38,5,0.89
+SIG_105,Akota Circle,6,Weekday,46,69,5,0.94
+SIG_002,Gotri Crossing,9,Weekday,62,53,5,0.96
+SIG_013,Gorwa Circle,18,Weekend,41,74,5,0.93
+SIG_006,Ajwa Road Junction,18,Weekend,71,44,5,0.96
+SIG_005,Kalali Road,21,Weekend,76,39,5,0.87
+SIG_001,Tarsali Bypass,11,Weekday,64,51,5,0.96
+SIG_006,Ajwa Road Junction,2,Weekday,84,31,5,0.91
+SIG_006,Ajwa Road Junction,12,Weekday,50,65,5,0.86
+SIG_016,Harni Circle,17,Weekday,53,62,5,0.88
+SIG_004,Makarpura GIDC,7,Weekday,81,34,5,0.89
+SIG_103,Fatehgunj Cross,20,Weekend,54,61,5,0.94
+SIG_009,Akshar Chowk,14,Weekday,61,54,5,0.9
+SIG_003,Vasna-Bhayli Road,0,Weekday,69,46,5,0.89
+SIG_019,Karelibaug Junction,2,Weekday,92,23,5,0.85
+SIG_102,Sayajigunj Circle,7,Weekday,61,54,5,0.95
+SIG_005,Kalali Road,3,Weekday,48,67,5,0.97
+SIG_004,Makarpura GIDC,15,Weekday,68,47,5,0.98
+SIG_006,Ajwa Road Junction,22,Weekend,70,45,5,0.9
+SIG_002,Gotri Crossing,9,Weekday,78,37,5,0.86
+SIG_105,Akota Circle,11,Weekday,47,68,5,0.91
+SIG_103,Fatehgunj Cross,13,Weekday,74,41,5,0.92
+SIG_004,Makarpura GIDC,13,Weekday,60,55,5,0.91
+SIG_104,Old Padra Road,1,Weekday,57,58,5,0.92
+SIG_006,Ajwa Road Junction,22,Weekend,73,42,5,0.88
+SIG_017,Manjalpur Chowkdi,4,Weekday,57,58,5,0.98
+SIG_006,Ajwa Road Junction,4,Weekday,53,62,5,0.85
+SIG_019,Karelibaug Junction,5,Weekday,58,57,5,0.94
+SIG_002,Gotri Crossing,12,Weekday,71,44,5,0.92
+SIG_104,Old Padra Road,8,Weekday,61,54,5,0.85
+SIG_103,Fatehgunj Cross,21,Weekend,87,28,5,0.97
+SIG_102,Sayajigunj Circle,14,Weekday,88,27,5,0.89
+SIG_019,Karelibaug Junction,13,Weekday,48,67,5,0.9
+SIG_013,Gorwa Circle,23,Weekend,61,54,5,0.89
+SIG_012,Waghodia Road Circle,6,Weekday,88,27,5,0.97
+SIG_005,Kalali Road,19,Weekend,81,34,5,0.98
+SIG_006,Ajwa Road Junction,1,Weekday,77,38,5,0.87
+SIG_004,Makarpura GIDC,6,Weekday,33,82,5,0.94
+SIG_019,Karelibaug Junction,5,Weekday,66,49,5,0.86
+SIG_105,Akota Circle,16,Weekday,57,58,5,0.95
+SIG_001,Tarsali Bypass,1,Weekday,47,68,5,0.88
+SIG_105,Akota Circle,2,Weekday,63,52,5,0.95
+SIG_017,Manjalpur Chowkdi,4,Weekday,57,58,5,0.98
+SIG_012,Waghodia Road Circle,4,Weekday,50,65,5,0.89
+SIG_104,Old Padra Road,0,Weekday,77,38,5,0.94
+SIG_001,Tarsali Bypass,7,Weekday,48,67,5,0.93
+SIG_014,Sama Savli Road,11,Weekday,61,54,5,0.93
+SIG_006,Ajwa Road Junction,23,Weekend,52,63,5,0.86
+SIG_005,Kalali Road,3,Weekday,78,37,5,0.85
+SIG_103,Fatehgunj Cross,12,Weekday,48,67,5,0.89
+SIG_004,Makarpura GIDC,22,Weekend,62,53,5,0.9
+SIG_013,Gorwa Circle,14,Weekday,56,59,5,0.89
+SIG_103,Fatehgunj Cross,10,Weekday,69,46,5,0.93
+SIG_003,Vasna-Bhayli Road,9,Weekday,74,41,5,0.98
+SIG_001,Tarsali Bypass,2,Weekday,76,39,5,0.98
+SIG_006,Ajwa Road Junction,21,Weekend,71,44,5,0.89
+SIG_018,Jetalpur Road,13,Weekday,38,77,5,0.97
+SIG_010,Nizampura Circle,15,Weekday,73,42,5,0.88
+SIG_005,Kalali Road,9,Weekday,66,49,5,0.91
+SIG_010,Nizampura Circle,9,Weekday,77,38,5,0.92
+SIG_012,Waghodia Road Circle,11,Weekday,49,66,5,0.97
+SIG_002,Gotri Crossing,8,Weekday,76,39,5,0.87
+SIG_013,Gorwa Circle,0,Weekday,44,71,5,0.89
+SIG_102,Sayajigunj Circle,4,Weekday,88,27,5,0.88
+SIG_002,Gotri Crossing,19,Weekend,53,62,5,0.88
+SIG_105,Akota Circle,7,Weekday,58,57,5,0.97
+SIG_001,Tarsali Bypass,10,Weekday,74,41,5,0.86
+SIG_005,Kalali Road,11,Weekday,79,36,5,0.94
+SIG_009,Akshar Chowk,0,Weekday,60,55,5,0.87
+SIG_017,Manjalpur Chowkdi,21,Weekend,57,58,5,0.9
+SIG_009,Akshar Chowk,19,Weekend,87,28,5,0.85
+SIG_103,Fatehgunj Cross,10,Weekday,55,60,5,0.96
+SIG_104,Old Padra Road,4,Weekday,86,29,5,0.86
+SIG_006,Ajwa Road Junction,14,Weekday,87,28,5,0.86
+SIG_003,Vasna-Bhayli Road,4,Weekday,59,56,5,0.97
+SIG_017,Manjalpur Chowkdi,11,Weekday,69,46,5,0.86
+SIG_005,Kalali Road,4,Weekday,67,48,5,0.95
+SIG_012,Waghodia Road Circle,16,Weekday,52,63,5,0.97
+SIG_018,Jetalpur Road,16,Weekday,59,56,5,0.95
+SIG_014,Sama Savli Road,23,Weekend,61,54,5,0.85
+SIG_103,Fatehgunj Cross,11,Weekday,86,29,5,0.94
+SIG_009,Akshar Chowk,23,Weekend,74,41,5,0.97
+SIG_002,Gotri Crossing,14,Weekday,61,54,5,0.86
+SIG_012,Waghodia Road Circle,14,Weekday,71,44,5,0.92
+SIG_003,Vasna-Bhayli Road,5,Weekday,95,20,5,0.95
+SIG_003,Vasna-Bhayli Road,11,Weekday,73,42,5,0.88
+SIG_001,Tarsali Bypass,19,Weekend,64,51,5,0.89
+SIG_102,Sayajigunj Circle,17,Weekday,63,52,5,0.91
+SIG_102,Sayajigunj Circle,13,Weekday,67,48,5,0.97
+SIG_103,Fatehgunj Cross,1,Weekday,57,58,5,0.91
+SIG_009,Akshar Chowk,8,Weekday,43,72,5,0.92
+SIG_005,Kalali Road,4,Weekday,62,53,5,0.9
+SIG_014,Sama Savli Road,19,Weekend,78,37,5,0.88
+SIG_003,Vasna-Bhayli Road,0,Weekday,68,47,5,0.87
+SIG_005,Kalali Road,22,Weekend,67,48,5,0.91
+SIG_005,Kalali Road,2,Weekday,56,59,5,0.94
+SIG_019,Karelibaug Junction,5,Weekday,78,37,5,0.96
+SIG_014,Sama Savli Road,4,Weekday,55,60,5,0.86
+SIG_004,Makarpura GIDC,20,Weekend,67,48,5,0.97
+SIG_013,Gorwa Circle,4,Weekday,74,41,5,0.89
+SIG_010,Nizampura Circle,0,Weekday,41,74,5,0.97
+SIG_018,Jetalpur Road,16,Weekday,59,56,5,0.86
+SIG_102,Sayajigunj Circle,18,Weekend,73,42,5,0.91
+SIG_102,Sayajigunj Circle,13,Weekday,80,35,5,0.97
+SIG_101,Alkapuri Circle,11,Weekday,50,65,5,0.89
+SIG_102,Sayajigunj Circle,9,Weekday,66,49,5,0.96
+SIG_014,Sama Savli Road,19,Weekend,45,70,5,0.94
+SIG_019,Karelibaug Junction,20,Weekend,77,38,5,0.91
+SIG_006,Ajwa Road Junction,17,Weekday,65,50,5,0.93
+SIG_001,Tarsali Bypass,23,Weekend,85,30,5,0.9
+SIG_104,Old Padra Road,10,Weekday,97,18,5,0.92
+SIG_001,Tarsali Bypass,1,Weekday,67,48,5,0.96
+SIG_017,Manjalpur Chowkdi,17,Weekday,47,68,5,0.98
+SIG_001,Tarsali Bypass,6,Weekday,52,63,5,0.94
+SIG_104,Old Padra Road,23,Weekend,81,34,5,0.95
+SIG_002,Gotri Crossing,14,Weekday,69,46,5,0.88
+SIG_014,Sama Savli Road,10,Weekday,59,56,5,0.89
+SIG_102,Sayajigunj Circle,17,Weekday,76,39,5,0.88
+SIG_102,Sayajigunj Circle,22,Weekend,76,39,5,0.93
+SIG_019,Karelibaug Junction,11,Weekday,69,46,5,0.87
+SIG_101,Alkapuri Circle,5,Weekday,61,54,5,0.96
+SIG_019,Karelibaug Junction,19,Weekend,68,47,5,0.88
+SIG_006,Ajwa Road Junction,22,Weekend,68,47,5,0.96
+SIG_006,Ajwa Road Junction,12,Weekday,74,41,5,0.94
+SIG_003,Vasna-Bhayli Road,19,Weekend,66,49,5,0.96
+SIG_101,Alkapuri Circle,15,Weekday,59,56,5,0.87
+SIG_019,Karelibaug Junction,17,Weekday,47,68,5,0.91
+SIG_102,Sayajigunj Circle,9,Weekday,56,59,5,0.96
+SIG_010,Nizampura Circle,22,Weekend,80,35,5,0.94
+SIG_105,Akota Circle,7,Weekday,65,50,5,0.87
+SIG_104,Old Padra Road,17,Weekday,71,44,5,0.92
+SIG_104,Old Padra Road,20,Weekend,82,33,5,0.97
+SIG_001,Tarsali Bypass,0,Weekday,75,40,5,0.87
+SIG_105,Akota Circle,22,Weekend,81,34,5,0.94
+SIG_101,Alkapuri Circle,7,Weekday,70,45,5,0.93
+SIG_004,Makarpura GIDC,5,Weekday,45,70,5,0.86
+SIG_006,Ajwa Road Junction,4,Weekday,52,63,5,0.88
+SIG_001,Tarsali Bypass,14,Weekday,36,79,5,0.94
+SIG_005,Kalali Road,21,Weekend,65,50,5,0.94
+SIG_001,Tarsali Bypass,14,Weekday,61,54,5,0.98
+SIG_004,Makarpura GIDC,1,Weekday,87,28,5,0.87
+SIG_002,Gotri Crossing,0,Weekday,72,43,5,0.89
+SIG_010,Nizampura Circle,22,Weekend,72,43,5,0.94
+SIG_005,Kalali Road,22,Weekend,53,62,5,0.92
+SIG_010,Nizampura Circle,10,Weekday,92,23,5,0.87
+SIG_001,Tarsali Bypass,9,Weekday,44,71,5,0.87
+SIG_006,Ajwa Road Junction,17,Weekday,71,44,5,0.97
+SIG_013,Gorwa Circle,17,Weekday,69,46,5,0.95
+SIG_104,Old Padra Road,16,Weekday,69,46,5,0.98
+SIG_004,Makarpura GIDC,7,Weekday,50,65,5,0.89
+SIG_013,Gorwa Circle,14,Weekday,42,73,5,0.96
+SIG_105,Akota Circle,7,Weekday,93,22,5,0.89
+SIG_104,Old Padra Road,16,Weekday,73,42,5,0.96
+SIG_102,Sayajigunj Circle,11,Weekday,58,57,5,0.92
+SIG_005,Kalali Road,7,Weekday,45,70,5,0.88
+SIG_104,Old Padra Road,13,Weekday,55,60,5,0.88
+SIG_004,Makarpura GIDC,3,Weekday,61,54,5,0.88
+SIG_012,Waghodia Road Circle,0,Weekday,43,72,5,0.86
+SIG_013,Gorwa Circle,0,Weekday,76,39,5,0.89
+SIG_002,Gotri Crossing,18,Weekend,63,52,5,0.97
+SIG_019,Karelibaug Junction,15,Weekday,62,53,5,0.91
+SIG_019,Karelibaug Junction,13,Weekday,65,50,5,0.87
+SIG_004,Makarpura GIDC,20,Weekend,54,61,5,0.98
+SIG_004,Makarpura GIDC,15,Weekday,51,64,5,0.88
+SIG_103,Fatehgunj Cross,4,Weekday,45,70,5,0.9
+SIG_005,Kalali Road,8,Weekday,64,51,5,0.87
+SIG_105,Akota Circle,1,Weekday,46,69,5,0.9
+SIG_103,Fatehgunj Cross,17,Weekday,89,26,5,0.93
+SIG_010,Nizampura Circle,5,Weekday,87,28,5,0.89
+SIG_102,Sayajigunj Circle,8,Weekday,69,46,5,0.93
+SIG_006,Ajwa Road Junction,0,Weekday,96,19,5,0.86
+SIG_006,Ajwa Road Junction,8,Weekday,58,57,5,0.95
+SIG_102,Sayajigunj Circle,15,Weekday,78,37,5,0.87
+SIG_104,Old Padra Road,12,Weekday,52,63,5,0.89
+SIG_014,Sama Savli Road,8,Weekday,74,41,5,0.94
+SIG_103,Fatehgunj Cross,20,Weekend,74,41,5,0.89
+SIG_012,Waghodia Road Circle,12,Weekday,73,42,5,0.9
+SIG_013,Gorwa Circle,8,Weekday,62,53,5,0.9
+SIG_102,Sayajigunj Circle,10,Weekday,77,38,5,0.98
+SIG_018,Jetalpur Road,3,Weekday,81,34,5,0.96
+SIG_001,Tarsali Bypass,1,Weekday,60,55,5,0.95
+SIG_104,Old Padra Road,5,Weekday,73,42,5,0.97
+SIG_102,Sayajigunj Circle,13,Weekday,58,57,5,0.96
+SIG_103,Fatehgunj Cross,3,Weekday,84,31,5,0.86
+SIG_012,Waghodia Road Circle,5,Weekday,42,73,5,0.87
+SIG_012,Waghodia Road Circle,18,Weekend,87,28,5,0.94
+SIG_004,Makarpura GIDC,5,Weekday,88,27,5,0.95
+SIG_016,Harni Circle,1,Weekday,47,68,5,0.88
+SIG_004,Makarpura GIDC,17,Weekday,52,63,5,0.95
+SIG_005,Kalali Road,12,Weekday,40,75,5,0.9
+SIG_005,Kalali Road,8,Weekday,68,47,5,0.9
+SIG_102,Sayajigunj Circle,22,Weekend,56,59,5,0.89
+SIG_010,Nizampura Circle,18,Weekend,79,36,5,0.9
+SIG_017,Manjalpur Chowkdi,12,Weekday,86,29,5,0.86
+SIG_009,Akshar Chowk,10,Weekday,58,57,5,0.95
+SIG_019,Karelibaug Junction,0,Weekday,55,60,5,0.97
+SIG_014,Sama Savli Road,23,Weekend,62,53,5,0.86
+SIG_102,Sayajigunj Circle,21,Weekend,76,39,5,0.95
+SIG_009,Akshar Chowk,6,Weekday,58,57,5,0.91
+SIG_103,Fatehgunj Cross,20,Weekend,79,36,5,0.97
+SIG_001,Tarsali Bypass,14,Weekday,68,47,5,0.97
+SIG_014,Sama Savli Road,0,Weekday,38,77,5,0.93
+SIG_005,Kalali Road,11,Weekday,64,51,5,0.98
+SIG_014,Sama Savli Road,6,Weekday,36,79,5,0.89
+SIG_004,Makarpura GIDC,14,Weekday,61,54,5,0.93
+SIG_001,Tarsali Bypass,20,Weekend,80,35,5,0.91
+SIG_019,Karelibaug Junction,18,Weekend,60,55,5,0.97
+SIG_102,Sayajigunj Circle,0,Weekday,66,49,5,0.88
+SIG_104,Old Padra Road,16,Weekday,56,59,5,0.88
+SIG_104,Old Padra Road,16,Weekday,54,61,5,0.95
+SIG_009,Akshar Chowk,2,Weekday,44,71,5,0.92
+SIG_009,Akshar Chowk,11,Weekday,53,62,5,0.9
+SIG_010,Nizampura Circle,5,Weekday,75,40,5,0.87
+SIG_105,Akota Circle,10,Weekday,63,52,5,0.97
+SIG_009,Akshar Chowk,2,Weekday,32,83,5,0.93
+SIG_003,Vasna-Bhayli Road,7,Weekday,59,56,5,0.91
+SIG_105,Akota Circle,13,Weekday,41,74,5,0.87
+SIG_103,Fatehgunj Cross,13,Weekday,89,26,5,0.87
+SIG_006,Ajwa Road Junction,9,Weekday,59,56,5,0.88
+SIG_002,Gotri Crossing,1,Weekday,61,54,5,0.85
