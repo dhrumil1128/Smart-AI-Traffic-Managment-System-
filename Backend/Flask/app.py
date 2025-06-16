@@ -1519,7 +1519,7 @@ def get_vadodara_news():
 # ---  render the frontend Templates ---
 @app.route('/')
 def index():
-    return render_template('main.html')
+    return render_template('templates\main.html')
 
 
 if __name__ == '__main__':
